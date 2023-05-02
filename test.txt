@@ -1,0 +1,6673 @@
+{
+  "QueryResult": {
+    "QueryID": 2,
+    "RecordsSearched": 88928027,
+    "RecordsFound": 33323
+  },
+  "Data": [
+    {
+      "UT": "WOS:000964264200028",
+      "Title": {
+        "Title": [
+          "Remuneration of Teleworking as a Guarantee of Labor Law in Latin America"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "302-313"
+        ],
+        "SourceTitle": [
+          "ESTUDIOS DEL DESARROLLO SOCIAL-CUBA Y AMERICA LATINA"
+        ],
+        "Volume": [
+          "11"
+        ],
+        "SpecialIssue": [
+          "SI"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ramos, Eduardo Luciano Hernandez",
+          "Ona, Lola Ximena Cangas",
+          "Granizo, Catherine Belen Carvajal"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "rights",
+          "working day",
+          "fair remuneration",
+          "technology"
+        ]
+      },
+      "Other": {
+        "Identifier.Issn": [
+          "2308-0132"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8HM5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967469800001",
+      "Title": {
+        "Title": [
+          "Hierarchical spatiotemporal modeling of human visceral leishmaniasis in Rio Grande do Norte, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS NEGLECTED TROPICAL DISEASES"
+        ],
+        "Issue": [
+          "4"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "APR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Hernandez, Helin G.",
+          "Brown, Grant D.",
+          "Lima, Iraci D.",
+          "Coutinho, Jose F.",
+          "Wilson, Mary E.",
+          "Nascimento, Eliana L. T.",
+          "Jeronimo, Selma M. B.",
+          "Petersen, Christine A.",
+          "Oleson, Jacob J."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Hernandez, Helin"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pntd.0011206"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0011206"
+        ],
+        "Identifier.Issn": [
+          "1935-2735"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D2ZY2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967442900001",
+      "Title": {
+        "Title": [
+          "A generalized framework for estimating snakebite underreporting using statistical models: A study in Colombia"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS NEGLECTED TROPICAL DISEASES"
+        ],
+        "Issue": [
+          "2"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "FEB"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Bravo-Vega, Carlos",
+          "Renjifo-Ibanez, Camila",
+          "Santos-Vega, Mauricio",
+          "Leon Nunez, Leonardo Jose",
+          "Angarita-Sierra, Teddy",
+          "Cordovez, Juan Manuel"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Bravo-Vega, Carlos Andres"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pntd.0011117"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0011117"
+        ],
+        "Identifier.Issn": [
+          "1935-2735"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D2YX9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000968321000001",
+      "Title": {
+        "Title": [
+          "Phenotypic plasticity and behavioral responses of dairy cattle on rotational grazing"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "TROPICAL ANIMAL HEALTH AND PRODUCTION"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "55"
+        ],
+        "Published.BiblioDate": [
+          "JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Batista, Pedro Henrique Dias",
+          "de Almeida, Gledson Luiz Pontes",
+          "Pandorfi, Heliton",
+          "de Medeiros, Victor Wanderley Costa",
+          "Moraes, Alex Souza",
+          "de Melo, Airon Aparecido Silva",
+          "da Silva, Marcos Vinicius",
+          "Silva, Marco Antonio"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Animal adaptability",
+          "Animal behavior",
+          "Principal components",
+          "Animal thermal comfort"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-7438"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "AAK-8688-2020"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "da Silva, Marcos Vin\u00edcius"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s11250-023-03567-7"
+        ],
+        "Identifier.article_no": [
+          "ARTN 158"
+        ],
+        "Identifier.Issn": [
+          "0049-4747"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D4GC8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000965196800006",
+      "Title": {
+        "Title": [
+          "Long-term relationship between the quality of employment and economic growth, and the role of labor institutions: the case of Uruguay in the period 1991-2018"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "119-140"
+        ],
+        "SourceTitle": [
+          "CEPAL REVIEW"
+        ],
+        "Issue": [
+          "138"
+        ],
+        "Published.BiblioDate": [
+          "DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Porras, Maria Sylvina"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Employment, human resources, working conditions, economic growth, measurement, econometric models, case studies, Uruguay"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1684-0348"
+        ],
+        "Identifier.Issn": [
+          "0251-2920"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C9RC4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000965196800010",
+      "Title": {
+        "Title": [
+          "Cooperatives versus traditional banks: the impact of their exclusion from the interbank market"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "221-243"
+        ],
+        "SourceTitle": [
+          "CEPAL REVIEW"
+        ],
+        "Issue": [
+          "138"
+        ],
+        "Published.BiblioDate": [
+          "DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Bergoeing, Raphael",
+          "Piguillem, Facundo"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Financial institutions, banks, cooperatives, credit associations, financial services, markets, banking operations, financial crisis, econometric models, Chile"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1684-0348"
+        ],
+        "Identifier.Issn": [
+          "0251-2920"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C9RC4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000965196800004",
+      "Title": {
+        "Title": [
+          "The effects of domestic demand shocks on inflation in a small open economy: Chile in the period 2000-2021"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "73-95"
+        ],
+        "SourceTitle": [
+          "CEPAL REVIEW"
+        ],
+        "Issue": [
+          "138"
+        ],
+        "Published.BiblioDate": [
+          "DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Lopez, Ramon Eugenio",
+          "Sepulveda, Kevin A."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "inflation, supply and demand, prices, exchange rates, liquidity, monetary policy, econometric modeling, Chile"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1684-0348"
+        ],
+        "Identifier.Issn": [
+          "0251-2920"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C9RC4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000968053900012",
+      "Title": {
+        "Title": [
+          "Management Efficiency of Investment Companies Specialized in Saving for the Retirement of Young People in Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "359-377"
+        ],
+        "SourceTitle": [
+          "ESTUDIOS DEL DESARROLLO SOCIAL-CUBA Y AMERICA LATINA"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "10"
+        ],
+        "Published.BiblioDate": [
+          "SEP-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ibarra, Quetzalli Atlatenco",
+          "Carranza, Maria Teresa De la Garza",
+          "Lemus, Jorge Armando Lopez"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "retirement savings",
+          "management",
+          "performance",
+          "risk"
+        ]
+      },
+      "Other": {
+        "Identifier.Issn": [
+          "2308-0132"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3WB5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964277400014",
+      "Title": {
+        "Title": [
+          "Class struggle, health crisis and human dignity: a discursive analysis of structural social inequality materialized in discourses about Covid-19"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "230-246"
+        ],
+        "SourceTitle": [
+          "REVISTA LETRAS"
+        ],
+        "Volume": [
+          "105"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "da Silva, Naiara Souza",
+          "de Souza, Mariana Jantsch"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Discourse Analysis",
+          "Health crisis",
+          "Class struggle"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2236-0999"
+        ],
+        "Identifier.Issn": [
+          "0100-0888"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8HZ6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000969657900001",
+      "Title": {
+        "Title": [
+          "Physical and environmental characteristics of the compost barn system and its effects on the physical integrity, reproduction and milk production of dairy cattle: a scoping review"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Review"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF ANIMAL BEHAVIOUR AND BIOMETEOROLOGY"
+        ],
+        "Issue": [
+          "2"
+        ],
+        "Volume": [
+          "11"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Guesine, Giovane Debs",
+          "Silveira, Robson Mateus Freitas",
+          "da Silva, Iran Jose Oliveira"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "animal welfare",
+          "composting",
+          "environment"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2318-1265"
+        ],
+        "Identifier.Doi": [
+          "10.31893/jabb.23010"
+        ],
+        "Identifier.article_no": [
+          "ARTN e2023010"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D6FB4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960999100005",
+      "Title": {
+        "Title": [
+          "Multisource Maximum Predictor Discrepancy for Unsupervised Domain Adaptation on Corn Yield Prediction"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING"
+        ],
+        "Volume": [
+          "61"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ma, Yuchi",
+          "Yang, Zhengwei",
+          "Zhang, Zhou"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Crop yield prediction",
+          "deep learning (DL)",
+          "multisource domain",
+          "satellite remote sensing (RS)",
+          "unsupervised domain adaptation (UDA)"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1558-0644"
+        ],
+        "Identifier.Doi": [
+          "10.1109/TGRS.2023.3247343"
+        ],
+        "Identifier.article_no": [
+          "ARTN 4401315"
+        ],
+        "Identifier.Issn": [
+          "0196-2892"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3MO3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000968120600001",
+      "Title": {
+        "Title": [
+          "THERMAL EXCHANGES IN A COVERED LAGOON BIODIGESTER TREATING PIG FARM EFFLUENT HEATED BY SOLAR ENERGY"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ENGENHARIA AGRICOLA"
+        ],
+        "Volume": [
+          "43"
+        ],
+        "SpecialIssue": [
+          "SI"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Maradini, Priscila da S.",
+          "Rosa, Andre P.",
+          "Lopes, Juciara O.",
+          "Carlo, Joyce C.",
+          "Borges, Alisson C."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "effluent heating",
+          "biodigester",
+          "heat-transfer media",
+          "mathematical modeling",
+          "energy recovery"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1809-4430"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Pereira Rosa, Andre"
+        ],
+        "Identifier.Doi": [
+          "10.1590/1809-4430-Eng.Agric.v43nepe20220130/2023"
+        ],
+        "Identifier.article_no": [
+          "ARTN e20220130"
+        ],
+        "Identifier.Issn": [
+          "0100-6916"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3YO6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962007600007",
+      "Title": {
+        "Title": [
+          "Populist Backlash and Trade Agreements in North America: The Prospects for Progressive Trade"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "237-248"
+        ],
+        "SourceTitle": [
+          "POLITICS AND GOVERNANCE"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "11"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Finbow, Robert G."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Canada-US-Mexico Agreement",
+          "globalisation",
+          "North America",
+          "populism",
+          "protectionism",
+          "trade agreements"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.17645/pag.v11i1.6078"
+        ],
+        "Identifier.Issn": [
+          "2183-2463"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4ZG2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967465700009",
+      "Title": {
+        "Title": [
+          "The Social Profile of cyclists in the municipality of Tehuacan, Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "189-214"
+        ],
+        "SourceTitle": [
+          "REVISTA DE TRANSPORTE Y TERRITORIO"
+        ],
+        "Issue": [
+          "27"
+        ],
+        "Published.BiblioDate": [
+          "JUL-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Alfaro, Rafael",
+          "Analco, Adahin",
+          "Medina, Susana"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "bicycle",
+          "maquila",
+          "cyclist profile",
+          "salary",
+          "Tehuacan"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.34096/rtt.i27.12219"
+        ],
+        "Identifier.Issn": [
+          "1852-7175"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D2ZU2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967883200001",
+      "Title": {
+        "Title": [
+          "The Unintended Consequences of Conditional Cash Transfer Programs for Violence: Experimental and Survey Evidence from Mexico and the Americas"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "LATIN AMERICAN POLITICS AND SOCIETY"
+        ],
+        "Published.BiblioDate": [
+          "MAR 29"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Zizumbo-Colunga, Daniel"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "CCT",
+          "social programs",
+          "homicides",
+          "PROGRESA",
+          "Mexico"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1548-2456"
+        ],
+        "Identifier.Doi": [
+          "10.1017/lap.2022.67"
+        ],
+        "Identifier.article_no": [
+          "PII S1531426X2200067X"
+        ],
+        "Identifier.Issn": [
+          "1531-426X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3PP6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967201700001",
+      "Title": {
+        "Title": [
+          "Grandmothers and the gender gap in the Mexican labor market"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF DEVELOPMENT ECONOMICS"
+        ],
+        "Volume": [
+          "162"
+        ],
+        "Published.BiblioDate": [
+          "MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Marcos, Miguel Angel Talamas"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Gender gap",
+          "Triple-difference",
+          "Motherhood penalty",
+          "Childcare",
+          "Mexico"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1872-6089"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.jdeveco.2022.103013"
+        ],
+        "Identifier.article_no": [
+          "ARTN 103013"
+        ],
+        "Identifier.Issn": [
+          "0304-3878"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D2PU2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967662100001",
+      "Title": {
+        "Title": [
+          "Reproduction of Parental Occupations, Income and Poverty in Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SOCIAL INDICATORS RESEARCH"
+        ],
+        "Published.BiblioDate": [
+          "APR 12"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gomes, Magno Rogerio",
+          "de Souza, Solange Cassia Inforzato",
+          "da Cunha, Marina Silva",
+          "Mourao, Paulo Jorge Reis"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Occupational legacy",
+          "Wage gap",
+          "Poverty",
+          "RIF decomposition"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-0921"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "D-9619-2011"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Gomes, Magno Rogerio",
+          "Inforzato, Solange",
+          "Mourao, Paulo"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s11205-023-03103-y"
+        ],
+        "Identifier.Issn": [
+          "0303-8300"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3HG6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967693700001",
+      "Title": {
+        "Title": [
+          "Six bold steps towards net-zero industry"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ENERGY RESEARCH & SOCIAL SCIENCE"
+        ],
+        "Volume": [
+          "99"
+        ],
+        "Published.BiblioDate": [
+          "MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Sovacool, Benjamin K.",
+          "Bazilian, Morgan D.",
+          "Kim, Jinsoo",
+          "Griffiths, Steven"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Net -zero",
+          "Industrial decarbonization",
+          "Global North",
+          "Global South",
+          "Climate change mitigation"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2214-6326"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.erss.2023.103067"
+        ],
+        "Identifier.article_no": [
+          "ARTN 103067"
+        ],
+        "Identifier.Issn": [
+          "2214-6296"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3IL9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961936700020",
+      "Title": {
+        "Title": [
+          "Effects of thermal environment on dairy cattle under a grazing system in the Western Amazon, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1119-1126"
+        ],
+        "SourceTitle": [
+          "ARQUIVO BRASILEIRO DE MEDICINA VETERINARIA E ZOOTECNIA"
+        ],
+        "Issue": [
+          "6"
+        ],
+        "Volume": [
+          "74"
+        ],
+        "Published.BiblioDate": [
+          "NOV-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Oliveira, A. V. D.",
+          "Reis, E. M. B.",
+          "Ferraz, P. F. P.",
+          "Barbari, M.",
+          "Santos, G. S.",
+          "Cruz, M. V. R.",
+          "Silva, G. F.",
+          "Silva, A. O. L."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "climate change",
+          "ambiance",
+          "animal welfare",
+          "heat stress",
+          "dairy cow"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1678-4162"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "L-5505-2015"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Domingos, Antonia Valcemira",
+          "BARBARI, MATTEO",
+          "Reis, Eduardo"
+        ],
+        "Identifier.Issn": [
+          "0102-0935"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4WN3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000966520700001",
+      "Title": {
+        "Title": [
+          "Cross-Border Antibiotic Resistance Patterns in Burn Patients"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SURGICAL INFECTIONS"
+        ],
+        "Published.BiblioDate": [
+          "APR 10"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Dunbar, Chance",
+          "Santorelli, Jarrett E.",
+          "Marshall, William A.",
+          "Haines, Laura N.",
+          "Box, Kevin",
+          "Lee, Jeanne G.",
+          "Strait, Eli",
+          "Costantini, Todd W.",
+          "Smith, Alan M.",
+          "Doucet, Jay J.",
+          "Berndtson, Allison E."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "antibiotic resistance",
+          "burns",
+          "global surgery",
+          "surgical infections"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1557-8674"
+        ],
+        "Identifier.Doi": [
+          "10.1089/sur.2022.313"
+        ],
+        "Identifier.Issn": [
+          "1096-2964"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D1PW8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964917200001",
+      "Title": {
+        "Title": [
+          "Beyond law enforcement: the militarization of democratic politics in Latin America"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "CANADIAN JOURNAL AMERICAN AND CARIBBEAN STUDIES"
+        ],
+        "Published.BiblioDate": [
+          "APR 6"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Botelho, Joao Carlos Amoroso",
+          "Carreno, Alexander Arciniegas",
+          "Tule, Luis Antonio Gonzalez"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "militarization",
+          "democratic politics",
+          "law enforcement",
+          "Latin America"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2333-1461"
+        ],
+        "Identifier.Doi": [
+          "10.1080/08263663.2023.2190654"
+        ],
+        "Identifier.Issn": [
+          "0826-3663"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C9GK4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000968500200001",
+      "Title": {
+        "Title": [
+          "Centres of excellence in Latin America: how do these differ from other experiences?"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SCIENCE AND PUBLIC POLICY"
+        ],
+        "Published.BiblioDate": [
+          "MAR 30"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Corilloclla Terbullino, Pavel Gabriel"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "centres of excellence",
+          "university-industry linkages",
+          "internal organisation",
+          "Latin America"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1471-5430"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Corilloclla Terbullino, Pavel"
+        ],
+        "Identifier.Doi": [
+          "10.1093/scipol/scad003"
+        ],
+        "Identifier.Issn": [
+          "0302-3427"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D4MX7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000929479200019",
+      "Title": {
+        "Title": [
+          "\"Obey but not comply\": The failure as a Protomedic of Francisco Hernandez in Mexico City. 1571-1574"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "417-440"
+        ],
+        "SourceTitle": [
+          "ANDAMIOS"
+        ],
+        "Issue": [
+          "49"
+        ],
+        "Volume": [
+          "19"
+        ],
+        "Published.BiblioDate": [
+          "MAY-AUG"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Martinez Hernandez, Gerardo"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Health policy",
+          "New Spain",
+          "Mexico City",
+          "Protomedicos",
+          "16th Century"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2594-1917"
+        ],
+        "Identifier.Doi": [
+          "10.29092/uacm.v19i49.936"
+        ],
+        "Identifier.Issn": [
+          "1870-0063"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8T8BA"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000965694100006",
+      "Title": {
+        "Title": [
+          "Teaching-Research-Extension: Methodological and Ethical Lessons Learned with Caregivers of the Elderly in Colombia"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "120-141"
+        ],
+        "SourceTitle": [
+          "REVISTA CIENCIAS SOCIALES Y EDUCACION"
+        ],
+        "Issue": [
+          "22"
+        ],
+        "Volume": [
+          "11"
+        ],
+        "Published.BiblioDate": [
+          "JUL-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Eumelia Galeano-Marin, Maria",
+          "Isabel Zuluaga, Maria",
+          "Velez Escobar, Viviana Marcela",
+          "Hoyos Lopez, Luz Maria",
+          "Ortiz Berrio, Juliana",
+          "Mauricio Lopera, Alex"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "methodology",
+          "teaching",
+          "research",
+          "extension",
+          "care",
+          "caregivers",
+          "older adults"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2590-7344"
+        ],
+        "Identifier.Doi": [
+          "10.22395/csye.v11n22a6"
+        ],
+        "Identifier.Issn": [
+          "2256-5000"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D0KE6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964739300001",
+      "Title": {
+        "Title": [
+          "With and beyond sustainability certification: Exploring inclusive business and solidarity economy strategies in Peru and Switzerland"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "WORLD DEVELOPMENT"
+        ],
+        "Volume": [
+          "165"
+        ],
+        "Published.BiblioDate": [
+          "MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Oberlack, Christoph",
+          "Blare, Trent",
+          "Zambrino, Luca",
+          "Bruelisauer, Samuel",
+          "Solar, Jimena",
+          "Villar, Gesabel",
+          "Thomas, Evert",
+          "Ramirez, Marleni"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-5991"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "AAA-3210-2019"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Blare, Trent"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.worlddev.2023.106187"
+        ],
+        "Identifier.article_no": [
+          "ARTN 106187"
+        ],
+        "Identifier.Issn": [
+          "0305-750X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8ZP2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000966720500008",
+      "Title": {
+        "Title": [
+          "State of the art of sustainability assessment methods"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "816-827"
+        ],
+        "SourceTitle": [
+          "CLIO AMERICA"
+        ],
+        "Issue": [
+          "31"
+        ],
+        "Volume": [
+          "16"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Vargas-Prieto, Amanda",
+          "Arrieta-Diaz, Enrique",
+          "Arrieta-Sanchez, Ana Carolina"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "economic development",
+          "development planning and policy",
+          "management of technological innovation and r&d",
+          "sustainable development"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2389-7848"
+        ],
+        "Identifier.Doi": [
+          "10.21676/23897848.4580"
+        ],
+        "Identifier.Issn": [
+          "1909-941X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D1XN4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964318700005",
+      "Title": {
+        "Title": [
+          "GRASSROOTS ECO-SOCIAL INNOVATIONS DRIVING INCLUSIVE CIRCULAR ECONOMY"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "3-12"
+        ],
+        "SourceTitle": [
+          "DETRITUS"
+        ],
+        "Volume": [
+          "22"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gutberlet, Jutta"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Eco-social innovations",
+          "Grassroots innovations",
+          "Sustainability transition",
+          "Circular economy",
+          "Waste picker organizations"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2611-4135"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Gutberlet, Jutta"
+        ],
+        "Identifier.Doi": [
+          "10.31025/2611-4135/2023.17252"
+        ],
+        "Identifier.Issn": [
+          "2611-4127"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8JO9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000966088200001",
+      "Title": {
+        "Title": [
+          "Palynology and mycology as biological evidence in a homicide case"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF FORENSIC SCIENCES"
+        ],
+        "Published.BiblioDate": [
+          "APR 8"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Povilauskas, Leticia Karina",
+          "Tranchida, Maria Cecilia"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "forensic microbiology",
+          "fungus",
+          "microvestiges",
+          "mycology",
+          "palynology",
+          "palynomorphs"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1556-4029"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Tranchida, Maria"
+        ],
+        "Identifier.Doi": [
+          "10.1111/1556-4029.15249"
+        ],
+        "Identifier.Issn": [
+          "0022-1198"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D0ZH6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967539600001",
+      "Title": {
+        "Title": [
+          "Contextual and individual factors associated with self-reported tooth loss among adults and elderly residents in rural riverside areas: A cross-sectional household-based survey"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "11"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "NOV 22"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de Souza, Vitor Guilherme Lima",
+          "Herkrath, Fernando Jose",
+          "Garnelo, Luiza",
+          "Gomes, Andreia Coelho",
+          "Lemos, Uriel Madureira",
+          "Parente, Rosana Cristina Pereira",
+          "Herkrath, Ana Paula Correa de Queiroz"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0277845"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0277845"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D3CO9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963542900001",
+      "Title": {
+        "Title": [
+          "How payments for ecosystem services can undermine Indigenous institutions: The case of Peru?s Ampiyacu-Apayacu watershed"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ECOLOGICAL ECONOMICS"
+        ],
+        "Volume": [
+          "205"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ravikumar, Ashwin",
+          "Uriarte, Esperanza Chairez",
+          "Lizano, Daniela",
+          "Farre, Andrea Munoz Ledo",
+          "Montero, Mariel"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Payments for ecosystem services",
+          "Degrowth",
+          "Buen vivir",
+          "Political ecology",
+          "Indigenous rights",
+          "Tropical forest conservation"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-6106"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.ecolecon.2022.107723"
+        ],
+        "Identifier.article_no": [
+          "ARTN 107723"
+        ],
+        "Identifier.Issn": [
+          "0921-8009"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7FW7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964668100001",
+      "Title": {
+        "Title": [
+          "Addressing Child Sexual Abuse: A Call to Action for Providers in Latin America"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "REVISTA PANAMERICANA DE SALUD PUBLICA-PAN AMERICAN JOURNAL OF PUBLIC HEALTH"
+        ],
+        "Volume": [
+          "47"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Casas-Munoz, Abigail",
+          "Carranza-Neira, Julia",
+          "Intebi, Irene",
+          "Lidchi, Victoria",
+          "Eisenstein, Evelyn",
+          "Greenbaum, Jordan"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Child abuse",
+          "sexual",
+          "health personnel",
+          "professional training",
+          "mentoring"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1680-5348"
+        ],
+        "Identifier.Doi": [
+          "10.26633/RPSP.2023.54"
+        ],
+        "Identifier.article_no": [
+          "ARTN e54"
+        ],
+        "Identifier.Issn": [
+          "1020-4989"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8WW1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964551100001",
+      "Title": {
+        "Title": [
+          "KNOWLEDGE MANAGEMENT AND ICT IN THE LABOR PRODUCTIVITY OF OFFICIALS OF THE PUBLIC SECTOR OF PERU"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "BIBLIOTECAS-ANALES DE INVESTIGACION"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "19"
+        ],
+        "Published.BiblioDate": [
+          "JAN-APR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Chavez-Ramirez, Edith Delia",
+          "Valderrama, Daniela Milagros Anticona",
+          "Sernaque, Madelaine Violeta Risco",
+          "Delgado, Lucila Rojas",
+          "Caballero-Cantu, Jose Jeremias"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Knowledge management",
+          "labor socio-economic observatory",
+          "labor productivity",
+          "ICTs"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1683-8947"
+        ],
+        "Identifier.Issn": [
+          "0006-176X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8SK6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000953337800001",
+      "Title": {
+        "Title": [
+          "The Transition to Free Labour in Puerto Rico: Class, Race and Politics in a Nineteenth-Century Colony"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF LATIN AMERICAN STUDIES"
+        ],
+        "Published.BiblioDate": [
+          "MAR 17"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ayala, Diego C."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Puerto Rico",
+          "slavery",
+          "abolition",
+          "colonialism",
+          "nineteenth century",
+          "labour",
+          "class"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1469-767X"
+        ],
+        "Identifier.Doi": [
+          "10.1017/S0022216X23000251"
+        ],
+        "Identifier.Issn": [
+          "0022-216X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A2FI7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000966750300001",
+      "Title": {
+        "Title": [
+          "Impact of health insurance on adult mortality in rural areas: Evidence of Seguro Popular in Mexico using panel data"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "WORLD DEVELOPMENT PERSPECTIVES"
+        ],
+        "Volume": [
+          "30"
+        ],
+        "Published.BiblioDate": [
+          "JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Arenas, Erika",
+          "Parker, Susan W.",
+          "Rubalcava, Luis",
+          "Teruel, Graciela"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Aging",
+          "Mortality",
+          "Health Insurance",
+          "Mexico",
+          "Program Evaluation",
+          "MxFLS",
+          "Seguro Popular"
+        ]
+      },
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Arenas, Erika"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.wdp.2023.100501"
+        ],
+        "Identifier.article_no": [
+          "ARTN 100501"
+        ],
+        "Identifier.Issn": [
+          "2452-2929"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D1YQ8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964001200001",
+      "Title": {
+        "Title": [
+          "Green innovation for resource efficiency and sustainability: Empirical analysis and policy"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "RESOURCES POLICY"
+        ],
+        "Volume": [
+          "81"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Sun, Yunpeng",
+          "Gao, Pengpeng",
+          "Tian, Wenjuan",
+          "Guan, Weimin"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "C23",
+          "Green innovation",
+          "Resource efficiency",
+          "Green economic growth",
+          "E7",
+          "GMM panel data technique"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-7641"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.resourpol.2023.103369"
+        ],
+        "Identifier.article_no": [
+          "ARTN 103369"
+        ],
+        "Identifier.Issn": [
+          "0301-4207"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7XK7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960204500006",
+      "Title": {
+        "Title": [
+          "Political Economy and Economic Policy of the Argentin Crisis: Towards Full Dollarization?"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "131-161"
+        ],
+        "SourceTitle": [
+          "APUNTES DEL CENES"
+        ],
+        "Issue": [
+          "75"
+        ],
+        "Volume": [
+          "42"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Luna, Guillermo Alexander Arevalo",
+          "Lizarazo, Guillermo Alejandro Arevalo"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "macroeconomics",
+          "dollarization",
+          "monetary policy",
+          "inflation"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2256-5779"
+        ],
+        "Identifier.Issn": [
+          "0120-3053"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2IB3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963490500001",
+      "Title": {
+        "Title": [
+          "Integrated Multi-Trophic Aquaculture (IMTA): Strategic model for sustainable mariculture in Samanco Bay, Peru"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Review"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "FRONTIERS IN MARINE SCIENCE"
+        ],
+        "Volume": [
+          "10"
+        ],
+        "Published.BiblioDate": [
+          "MAR 24"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Loayza-Aguilar, Romulo E.",
+          "Huamancondor-Paz, Yolanda P.",
+          "Saldana-Rojas, Guillermo B.",
+          "Olivos-Ramirez, Gustavo E."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "integrated multi-trophic aquaculture",
+          "mariculture",
+          "Samanco bay",
+          "organic matter",
+          "extractive aquaculture",
+          "macroalgae"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2296-7745"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Loayza Aguilar, Romulo Eugenio",
+          "Olivos Ramirez, Gustavo Enrique"
+        ],
+        "Identifier.Doi": [
+          "10.3389/fmars.2023.1151810"
+        ],
+        "Identifier.article_no": [
+          "ARTN 1151810"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7DX0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964379800001",
+      "Title": {
+        "Title": [
+          "National multicentric study on the incidence of alcohol burns during the COVID-19 pandemic"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "615-621"
+        ],
+        "SourceTitle": [
+          "BURNS"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "49"
+        ],
+        "Published.BiblioDate": [
+          "MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Kobarg, Bianca Sandi",
+          "Guanilo, Maria Elena Echevarria",
+          "Bernard, Gustavo Peressoni",
+          "Barreto, Marcos Guilherme Praxedes",
+          "Vana, Luiz Philipe Molina",
+          "de Oliveira Junior, Joir Lima",
+          "de Araujo, Kelly Danielle",
+          "Homem, Ricardo de Lauro Machado",
+          "Tecla, Elaine Marlene",
+          "de Arruda, Fabiano Calixto Fortes",
+          "Adorno, Jose",
+          "Gragnani, Alfredo",
+          "Pereima, Mauricio Jose Lopes"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Burns",
+          "Epidemiology",
+          "SARS-CoV-2",
+          "Health policy"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1879-1409"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.burns.2022.04.005"
+        ],
+        "Identifier.Issn": [
+          "0305-4179"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8LX7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960204500007",
+      "Title": {
+        "Title": [
+          "Spillovers of COVID-19 on Employment and Income in Peru"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "163-197"
+        ],
+        "SourceTitle": [
+          "APUNTES DEL CENES"
+        ],
+        "Issue": [
+          "75"
+        ],
+        "Volume": [
+          "42"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Pacheco, Mario Delfin Tello"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "COVID-19",
+          "spillovers effects"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2256-5779"
+        ],
+        "Identifier.Issn": [
+          "0120-3053"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2IB3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962717400001",
+      "Title": {
+        "Title": [
+          "Global Health System Resilience during Encounters with Stressors- Lessons Learnt from Cancer Services during the COVID-19 Pandemic"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "E289-E300"
+        ],
+        "SourceTitle": [
+          "CLINICAL ONCOLOGY"
+        ],
+        "Issue": [
+          "4"
+        ],
+        "Volume": [
+          "35"
+        ],
+        "Published.BiblioDate": [
+          "APR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Yeoh, K.",
+          "Wu, Y.",
+          "Chakraborty, S.",
+          "Elhusseiny, G.",
+          "Gondhowiardjo, S.",
+          "Joseph, N.",
+          "Lee, A. W. M.",
+          "Loong, H. H.",
+          "Msadabwe-Chikuni, S. C.",
+          "Tan, B. F.",
+          "Ospina, A. V.",
+          "Roques, T.",
+          "Shum, H. M.",
+          "Yeoh, E. K."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Cancer",
+          "COVID-19",
+          "health policy",
+          "health systems",
+          "resilience"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1433-2981"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "G-3455-2012",
+          "AEG-7309-2022",
+          "J-5413-2017"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "WU, Yushan",
+          "Joseph, Nuradh",
+          "Chakraborty, Santam",
+          "Gondhowiardjo, Soehartati",
+          "Loong, Herbert"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.clon.2023.01.004"
+        ],
+        "Identifier.Issn": [
+          "0936-6555"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C6AJ0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960863300003",
+      "Title": {
+        "Title": [
+          "The concept of associated persons as a key and potentially problematic aspect in transfer pricing"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "21-33"
+        ],
+        "SourceTitle": [
+          "FINANCIAL INTERNET QUARTERLY"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "19"
+        ],
+        "Published.BiblioDate": [
+          "MAR 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Brychta, Karel",
+          "de Abreu, Matheus Chebli",
+          "Hudenko, Justina",
+          "Santos, Lucas Scheremetta",
+          "Poubel, Lucas Cunha do Valle"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Associated Persons",
+          "Arm ' s Length Principle",
+          "Brazil",
+          "Czech Republic",
+          "Latvia",
+          "Transfer Pricing"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2719-3454"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Cunha do Valle Poubel, Lucas",
+          ""
+        ],
+        "Identifier.Doi": [
+          "10.2478/fiqf-2023-0003"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3HI6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963844300006",
+      "Title": {
+        "Title": [
+          "Environmental risk assessment of potentially toxic elements in Doce River watershed after mining sludge dam breakdown in Mariana, MG, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ENVIRONMENTAL MONITORING AND ASSESSMENT"
+        ],
+        "Issue": [
+          "5"
+        ],
+        "Volume": [
+          "195"
+        ],
+        "Published.BiblioDate": [
+          "MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Bertoldo, Leticia A.",
+          "Ribeiro, Angelita",
+          "Reis, Cecilia E. S.",
+          "Frachini, Emilli",
+          "Kroetz, Barbara L.",
+          "Abrao, Taufik",
+          "Santos, Maria Josefa"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Risk assessment",
+          "Metal mobilization",
+          "Mining waste",
+          "Sequential extraction",
+          "Geochemical fractions"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-2959"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s10661-023-11080-5"
+        ],
+        "Identifier.article_no": [
+          "ARTN 539"
+        ],
+        "Identifier.Issn": [
+          "0167-6369"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7RJ9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961057500002",
+      "Title": {
+        "Title": [
+          "INTERNAL MIGRATION IN MEXICO. A REGIONAL STUDY ANALYSIS IN LOS CABOS, B.C.S. (2021)"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "15-41"
+        ],
+        "SourceTitle": [
+          "REVISTA RA XIMHAI"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "19"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Pintor-Sandoval, Renato",
+          "Israel-Cazares, Manuel de Jesus"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Mexico",
+          "internal migration",
+          "Los Cabos",
+          "impact",
+          "tourism"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.35197/rx.19.01.2023.01.rp"
+        ],
+        "Identifier.Issn": [
+          "1665-0441"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3OU6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961369300005",
+      "Title": {
+        "Title": [
+          "Analysis of the Psychosocial Factors of University Professors"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "56-70"
+        ],
+        "SourceTitle": [
+          "EUROPEAN JOURNAL OF CONTEMPORARY EDUCATION"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "12"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de la Garza Carranza, Maria Teresa",
+          "Gonzalez Farias, Jose Porfirio",
+          "Cano Ibarra, Salustia Teresa",
+          "Vazquez Lara de la Cruz, Laura Georgina"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "university professors",
+          "psychosocial factors",
+          "exploratory factor analysis",
+          "Mexico"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2305-6746"
+        ],
+        "Identifier.Doi": [
+          "10.13187/ejced.2023.1.56"
+        ],
+        "Identifier.Issn": [
+          "2304-9650"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4AU1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961689800007",
+      "Title": {
+        "Title": [
+          "Expert Teams in Instructional Leadership Practices Based on Collaboration and Their Transference to Local Teaching Improvement Networks"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "256-294"
+        ],
+        "SourceTitle": [
+          "RESEARCH IN EDUCATIONAL ADMINISTRATION & LEADERSHIP"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "8"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Volante, Paulo",
+          "Mueller, Magdalena",
+          "Salinas, Alvaro",
+          "Cravens, Xiu"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "collaboration",
+          "instructional",
+          "leadership",
+          "deprivatisation",
+          "professional",
+          "development"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.30828/real.1095600"
+        ],
+        "Identifier.Issn": [
+          "2564-7261"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4NC4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962725000001",
+      "Title": {
+        "Title": [
+          "Atrapados / trapped in space and time: protracted precarity in the homing of Argentine middle-class temporary migrants in Perth, Australia"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF ETHNIC AND MIGRATION STUDIES"
+        ],
+        "Published.BiblioDate": [
+          "APR 5"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Dewey, Bernardo",
+          "Fozdar, Farida"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Temporary migration",
+          "home",
+          "precarity",
+          "Argentina",
+          "Australia"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1469-9451"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Dewey, Bernardo Tomas"
+        ],
+        "Identifier.Doi": [
+          "10.1080/1369183X.2023.2193865"
+        ],
+        "Identifier.Issn": [
+          "1369-183X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C6AQ5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962560300001",
+      "Title": {
+        "Title": [
+          "Social policy expansion from below? The case of Chile?s student movement and free tuition higher education"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "WORLD DEVELOPMENT"
+        ],
+        "Volume": [
+          "167"
+        ],
+        "Published.BiblioDate": [
+          "JUL"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Donoso, Sofia",
+          "Pavlic, Rodolfo Disi",
+          "Cumsille, R. Belen"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Chile",
+          "Student movement",
+          "Free tuition",
+          "Policy expansion",
+          "Higher education policy"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-5991"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Disi Pavlic, Rodolfo"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.worlddev.2023.106213"
+        ],
+        "Identifier.article_no": [
+          "ARTN 106213"
+        ],
+        "Identifier.Issn": [
+          "0305-750X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C5UJ2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962863300001",
+      "Title": {
+        "Title": [
+          "COVID-19 and employment relief programs: A tale of spatially blind policies for a spatially driven pandemic"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF REGIONAL SCIENCE"
+        ],
+        "Published.BiblioDate": [
+          "APR 4"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ochoa, Esteban Lopez",
+          "Eberhard, Juan",
+          "Aroca, Patricio"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Chile",
+          "COVID-19",
+          "employment",
+          "lockdowns",
+          "pandemic",
+          "policy evaluation",
+          "regional and temporal variation",
+          "spatially blind policies"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1467-9787"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "AROCA, PATRICIO"
+        ],
+        "Identifier.Doi": [
+          "10.1111/jors.12642"
+        ],
+        "Identifier.Issn": [
+          "0022-4146"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C6FW3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962909700004",
+      "Title": {
+        "Title": [
+          "Impact of Dam Collapses on Violence in Minas Gerais, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "53-77"
+        ],
+        "SourceTitle": [
+          "COSMOPOLITAN CIVIL SOCIETIES-AN INTERDISCIPLINARY JOURNAL"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "15"
+        ],
+        "SpecialIssue": [
+          "SI"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Andrade, Rafael Lara Mazoni"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Tailings Dam Disaster",
+          "Extractivism",
+          "Violence",
+          "Impact Assessment",
+          "Brazil"
+        ]
+      },
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Mazoni Andrade, Rafael"
+        ],
+        "Identifier.Doi": [
+          "10.5130/ccs.v15.i1.8297"
+        ],
+        "Identifier.Issn": [
+          "1837-5391"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C6HQ7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000957828200009",
+      "Title": {
+        "Title": [
+          "Are antibiotics useful in patients with preterm and spontaneous labor, intact membranes and ascendant bacterial infection? A narrative review"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Review"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "573-587"
+        ],
+        "SourceTitle": [
+          "REVISTA CHILENA DE INFECTOLOGIA"
+        ],
+        "Issue": [
+          "5"
+        ],
+        "Volume": [
+          "39"
+        ],
+        "Published.BiblioDate": [
+          "OCT"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Alfredo, Ovalle S.",
+          "Enrique, Oyarzun E."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "spontaneous preterm labor with intact membranes",
+          "antibiotic therapy",
+          "intra-amniotic infection",
+          "neonatal outcomes"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "0717-6341"
+        ],
+        "Identifier.Issn": [
+          "0716-1018"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A8VA4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962649100001",
+      "Title": {
+        "Title": [
+          "Confirming the identity of the Hypogeococcus species (Hemiptera: Pseudococcidae) associated with Harrisia martinii (Labour.) Britton (Cactaceae) in Australia: Implications for biological control"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "AUSTRAL ENTOMOLOGY"
+        ],
+        "Published.BiblioDate": [
+          "APR 3"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ezeh, Angela E.",
+          "Hereward, James P.",
+          "Day, Michael D.",
+          "Taylor, Tamara",
+          "Furlong, Michael J."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "genetic diversity",
+          "Hypogeococcus festerianus",
+          "Hypogeococcus pungens",
+          "integrative taxonomy",
+          "species complex"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2052-174X"
+        ],
+        "Identifier.Doi": [
+          "10.1111/aen.12641"
+        ],
+        "Identifier.Issn": [
+          "2052-1758"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C5XT3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963407100001",
+      "Title": {
+        "Title": [
+          "Common mental disorders, productivity and presenteeism in nursing workers"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "REVISTA DA ESCOLA DE ENFERMAGEM DA USP"
+        ],
+        "Volume": [
+          "57"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de Sousa, Raymara Melo",
+          "Cenzi, Camila Maria",
+          "Bortolini, Juliano",
+          "Terra, Fabio de Souza",
+          "Valim, Marilia Duarte"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Eissn": [
+          "1980-220X"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "U-8167-2018"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Melo de Sousa, Raymara",
+          "Bortolini, Juliano",
+          "Duarte Valim, Marilia"
+        ],
+        "Identifier.Doi": [
+          "10.1590/1980-220X-REEUSP-2022-0296en"
+        ],
+        "Identifier.article_no": [
+          "ARTN e20220296"
+        ],
+        "Identifier.Issn": [
+          "0080-6234"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7AR8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961695200001",
+      "Title": {
+        "Title": [
+          "PRISON POLICY AND SOLUTIONS PRESENTED BY PRISON FORMER PRISONERS"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ARQUIVOS BRASILEROS DE PSICOLOGIA"
+        ],
+        "Volume": [
+          "74"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de Farias, Bruno Graebin",
+          "Helena, Silvia"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Public policies",
+          "Penal rehabilitation",
+          "Criminology",
+          "Labor",
+          "Prison psychology"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.36482/1809-5267.ARBP-2022v74.19894"
+        ],
+        "Identifier.article_no": [
+          "ARTN e030"
+        ],
+        "Identifier.Issn": [
+          "1809-5267"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4NH7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000925209600002",
+      "Title": {
+        "Title": [
+          "Trace elements concentration in blood of nesting Kemp's Ridley turtles (Lepidochelys kempii) at Rancho Nuevo sanctuary, Tamaulipas, Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "11"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "NOV 2"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Zavala-Felix, Kevin Alan",
+          "Reyes-Lopez, Miguel Angel",
+          "Camacho-Sanchez, Fatima Yedith",
+          "Acosta-Sanchez, Hector Hugo",
+          "Hart, Catherine E.",
+          "Zavala-Norzagaray, Alan A.",
+          "Leal-Sepulveda, Valeria",
+          "Leal-Moreno, Renato",
+          "Espinoza-Romo, Brenda Aracely",
+          "Aguirre, A. Alonso",
+          "Ley-Quinonez, Cesar P."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "GXA-2258-2022"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Reyes-Lopez, Miguel Angel",
+          "Hart, Catherine Edwina",
+          "Camacho-Sanchez, Fatima Yedith",
+          "Zavala-Norzagaray, Alan",
+          "Zavala-Felix, Kevin Alan",
+          "Leal-Sepulveda, Valeria"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0269346"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0269346"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8N5SK"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000933370800035",
+      "Title": {
+        "Title": [
+          "Non-local validated parametrization of an agent-based model of local-scale Taenia solium transmission in North-West Peru"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "9"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "SEP 27"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "GroupAuthors": [
+          "Cysticercosis Working Grp Peru"
+        ],
+        "Authors": [
+          "Pizzitutti, Francesco",
+          "Bonnet, Gabrielle",
+          "Gonzales-Gustavson, Eloy",
+          "Gabriel, Sarah",
+          "Pan, William K.",
+          "Pray, Ian W.",
+          "Gonzalez, Armando E.",
+          "Garcia, Hector H.",
+          "O'Neal, Seth E."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "HTR-1125-2023"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "PAN, WILLIAM",
+          "O'Neal, Seth",
+          "Pan, William",
+          "Pray, Ian",
+          "GABRIEL, SARAH",
+          "Bonnet, Gabrielle",
+          "Gonzales-Gustavson, Eloy"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0275247"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0275247"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8Z4SU"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000933365700002",
+      "Title": {
+        "Title": [
+          "Modeling protected species distributions and habitats to inform siting and management of pioneering ocean industries: A case study for Gulf of Mexico aquaculture"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "9"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "SEP 30"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Farmer, Nicholas A.",
+          "Powell, Jessica R.",
+          "Morris, James A.",
+          "Soldevilla, Melissa S.",
+          "Wickliffe, Lisa C.",
+          "Jossart, Jonathan A.",
+          "MacKay, Jonathan K.",
+          "Randall, Alyssa L.",
+          "Bath, Gretchen E.",
+          "Ruvelas, Penny",
+          "Gray, Laura",
+          "Lee, Jennifer",
+          "Piniak, Wendy",
+          "Garrison, Lance",
+          "Hardy, Robert",
+          "Hart, Kristen M.",
+          "Sasso, Chris",
+          "Stokes, Lesley",
+          "Riley, Kenneth L."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "I-3102-2019"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Hardy, Robert"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0267333"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0267333"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8Z4QV"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962435900001",
+      "Title": {
+        "Title": [
+          "Quercus insignis seedling response to climatic transfer distance in the face of climate change"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "FOREST ECOLOGY AND MANAGEMENT"
+        ],
+        "Volume": [
+          "533"
+        ],
+        "Published.BiblioDate": [
+          "APR 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Toledo-Aceves, Tarin",
+          "Saenz-Romero, Cuauhtemoc",
+          "Cruzado-Vargas, Ana Laura",
+          "Vasquez-Reyes, Victor"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Assisted migration",
+          "Endangered species",
+          "Enrichment planting",
+          "Tree seedling survival",
+          "Translocation",
+          "Tropical montane cloud forest"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1872-7042"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.foreco.2023.120855"
+        ],
+        "Identifier.article_no": [
+          "ARTN 120855"
+        ],
+        "Identifier.Issn": [
+          "0378-1127"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C5PP8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000831314400005",
+      "Title": {
+        "Title": [
+          "The Effect of Job Loss and Unemployment Insurance on Crime in Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1393-1423"
+        ],
+        "SourceTitle": [
+          "ECONOMETRICA"
+        ],
+        "Issue": [
+          "4"
+        ],
+        "Volume": [
+          "90"
+        ],
+        "Published.BiblioDate": [
+          "JUL"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Britto, Diogo G. C.",
+          "Pinotti, Paolo",
+          "Sampaio, Breno"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Unemployment",
+          "crime",
+          "unemployment insurance",
+          "registry data"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1468-0262"
+        ],
+        "Identifier.Doi": [
+          "10.3982/ECTA18984"
+        ],
+        "Identifier.Issn": [
+          "0012-9682"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "3G4GZ"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961850400001",
+      "Title": {
+        "Title": [
+          "Context matters: An insider's view on freshwater ecosystem research in Latin America"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "FRESHWATER SCIENCE"
+        ],
+        "Published.BiblioDate": [
+          "JUN 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gutierrez-Fonseca, Pablo E.",
+          "Tagliaferro, Marina"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "model",
+          "conceptual framework",
+          "extrapolation",
+          "transferability",
+          "Latin American scientists",
+          "ecology",
+          "stream ecosystem"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2161-9565"
+        ],
+        "Identifier.Doi": [
+          "10.1086/725026"
+        ],
+        "Identifier.Issn": [
+          "2161-9549"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4TG1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964301900001",
+      "Title": {
+        "Title": [
+          "Skilled workforces and Law-abiding organizational climates in emerging markets"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF BUSINESS RESEARCH"
+        ],
+        "Volume": [
+          "158"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Mohammad, Shoeb",
+          "Husted, Bryan"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Law-abiding climate",
+          "Skilled workers",
+          "Organizational adaptability",
+          "Managerial ties",
+          "Emerging markets",
+          "Mexico"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-7978"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Husted, Bryan"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.jbusres.2022.113530"
+        ],
+        "Identifier.article_no": [
+          "ARTN 113530"
+        ],
+        "Identifier.Issn": [
+          "0148-2963"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8IY1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000953686600001",
+      "Title": {
+        "Title": [
+          "The Legal Contention for Baldios Land in the Colombian Altillanura"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "LATIN AMERICAN POLITICS AND SOCIETY"
+        ],
+        "Published.BiblioDate": [
+          "MAR 20"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Hurtado-Hurtado, Carolina",
+          "Ortiz-Miranda, Dionisio",
+          "Arnalte-Alegre, Eladio"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Large-scale land acquisition",
+          "legal contention",
+          "baldios land",
+          "Colombia"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1548-2456"
+        ],
+        "Identifier.Doi": [
+          "10.1017/lap.2022.38"
+        ],
+        "Identifier.article_no": [
+          "PII S1531426X22000383"
+        ],
+        "Identifier.Issn": [
+          "1531-426X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A2SQ3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000957919500002",
+      "Title": {
+        "Title": [
+          "Germplasm movement zones of eight forest species and future projections in the face of climate change in the Southeast of Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "NEW FORESTS"
+        ],
+        "Published.BiblioDate": [
+          "MAR 27"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Nunez-Piedra, Manuel Lorenzo",
+          "Martinez-Zurimendi, Pablo",
+          "Dominguez-Dominguez, Marivel",
+          "Cach-Perez, Manuel Jesus",
+          "Sierra-de-Grado, Rosario"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Tropical forest ecosystems",
+          "Reforestation",
+          "Forest genetic resources",
+          "Seed zones"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-5095"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "B-7662-2013"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Martinez-Zurimendi, Pablo"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s11056-023-09968-8"
+        ],
+        "Identifier.Issn": [
+          "0169-4286"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A8YN1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961833800004",
+      "Title": {
+        "Title": [
+          "Subjective socioeconomic status: an alternative to objective socioeconomic status"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "BMC MEDICAL RESEARCH METHODOLOGY"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "23"
+        ],
+        "Published.BiblioDate": [
+          "MAR 28"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Zhao, Maryann",
+          "Huang, Chuan-Chin",
+          "Mendoza, Milagros",
+          "Tovar, Ximena",
+          "Lecca, Leonid",
+          "Murray, Megan"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Tuberculosis",
+          "Subjective socioeconomic status",
+          "Objective socioeconomic status",
+          "MacArthur Scale of Subjective Social Status",
+          "Asthma"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1471-2288"
+        ],
+        "Identifier.Doi": [
+          "10.1186/s12874-023-01890-z"
+        ],
+        "Identifier.article_no": [
+          "ARTN 73"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4SP5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961976800001",
+      "Title": {
+        "Title": [
+          "(Un)Learning sustainability practices in a multi-tiered supply chain: an interpretive study"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT"
+        ],
+        "Published.BiblioDate": [
+          "APR 4"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Santos, Karina A.",
+          "Silva, Minelle E.",
+          "Pereira, Susana Carla Farias"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Sustainability practice",
+          "Knowledge",
+          "Sub-supplier",
+          "Unlearning",
+          "Space of learning",
+          "Ethnography"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1758-6593"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Silva, Minelle",
+          "Farias Pereira, Susana Carla"
+        ],
+        "Identifier.Doi": [
+          "10.1108/IJOPM-08-2022-0504"
+        ],
+        "Identifier.Issn": [
+          "0144-3577"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4YB4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000964329500003",
+      "Title": {
+        "Title": [
+          "On the identity of Oocephalus lythroides (Hyptidinae, Lamiaceae): a new combination in the genus Cantinoa"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ACTA BOTANICA BRASILICA"
+        ],
+        "Volume": [
+          "36"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Soares, Arthur de Souza",
+          "Harley, Raymond Mervyn",
+          "Barea Pastore, Jose Floriano",
+          "Jardim, Jomar Gomes"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Brazilian flora",
+          "Cerrado hotspot",
+          "endemism",
+          "Hyptis",
+          "taxonomy"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1677-941X"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "V-4028-2019"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Jardim, Jomar Gomes"
+        ],
+        "Identifier.Doi": [
+          "10.1590/0102-33062021abb0302"
+        ],
+        "Identifier.Issn": [
+          "0102-3306"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C8JZ7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963667100001",
+      "Title": {
+        "Title": [
+          "A Bacillus-based biofungicide agent prevents ochratoxins occurrence in grapes and impacts the volatile profile throughout the Chardonnay winemaking stages"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "INTERNATIONAL JOURNAL OF FOOD MICROBIOLOGY"
+        ],
+        "Volume": [
+          "389"
+        ],
+        "Published.BiblioDate": [
+          "MAR 16"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Nievierowski, Tassia Henrique",
+          "Veras, Flavio Fonseca",
+          "Silveira, Rafaela Diogo",
+          "Giocastro, Barbara",
+          "Aloisi, Ivan",
+          "Tranchida, Peter Q.",
+          "Dugo, Paola",
+          "Brandelli, Adriano",
+          "Zini, Claudia Alcaraz",
+          "Welke, Juliane Elisa"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Bacillus velezensis",
+          "Aspergillus carbonarius",
+          "Ochratoxin A",
+          "Biological control",
+          "LC-QToF-MS",
+          "GC ? GC",
+          "MS"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1879-3460"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.ijfoodmicro.2023.110107"
+        ],
+        "Identifier.article_no": [
+          "ARTN 110107"
+        ],
+        "Identifier.Issn": [
+          "0168-1605"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7KQ0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962453300001",
+      "Title": {
+        "Title": [
+          "From macro to micro and macro back: Macroeconomic trade elasticities in a developing economy"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "223-252"
+        ],
+        "SourceTitle": [
+          "STRUCTURAL CHANGE AND ECONOMIC DYNAMICS"
+        ],
+        "Volume": [
+          "65"
+        ],
+        "Published.BiblioDate": [
+          "JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Palazzo, Gabriel",
+          "Rapetti, Martin"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Trade elasticity",
+          "Real exchange rates",
+          "Developing countries",
+          "Productive structure"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-6017"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.strueco.2023.02.015"
+        ],
+        "Identifier.Issn": [
+          "0954-349X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C5QH0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961819700001",
+      "Title": {
+        "Title": [
+          "Credit Claiming by Labeling"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "COMPARATIVE POLITICAL STUDIES"
+        ],
+        "Published.BiblioDate": [
+          "APR 2"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Oliveros, Virginia",
+          "Weitz-Shapiro, Rebecca",
+          "Winters, Matthew S."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "credit claiming",
+          "voter attitudes",
+          "social policy",
+          "clientelism",
+          "survey experiment",
+          "Argentina"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1552-3829"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "H-6098-2019"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Winters, Matthew",
+          "Weitz-Shapiro, Rebecca"
+        ],
+        "Identifier.Doi": [
+          "10.1177/00104140231169016"
+        ],
+        "Identifier.Issn": [
+          "0010-4140"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4SB6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000953096600002",
+      "Title": {
+        "Title": [
+          "HISTORICAL ROUNDS OF NEOLIBERALIZATION IN BRAZIL"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "675-708"
+        ],
+        "SourceTitle": [
+          "CONTEMPORANEA-REVISTA DE SOCIOLOGIA DA UFSCAR"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "12"
+        ],
+        "Published.BiblioDate": [
+          "SEP-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Andrade, Daniel Pereira"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "neoliberalism",
+          "governmentality",
+          "Brazilian historical process of neolibe-ralization",
+          "historical emergence of neoliberalism in Brazil"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2316-1329"
+        ],
+        "Identifier.Doi": [
+          "10.4322/2316-1329.2022021"
+        ],
+        "Identifier.Issn": [
+          "2236-532X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A1WF0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961952100001",
+      "Title": {
+        "Title": [
+          "Identification techniques to prevent the current emerging disease hepatopancreatic microsporidiosis in white shrimp Penaeus vannamei: an overview"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Review"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1-11"
+        ],
+        "SourceTitle": [
+          "LATIN AMERICAN JOURNAL OF AQUATIC RESEARCH"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "51"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Cuauhtemoc Ibarra-Gamez, Jose",
+          "Fernanda Rubio-Garcia, Maria",
+          "Sanchez-Diaz, Ricardo",
+          "Casillas-Hernandez, Ramon",
+          "Martinez-Ibarra, Diana M."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Enterocytozoon hepatopenaei",
+          "hepatopancreatic microsporidiosis",
+          "Penaeus vannamei",
+          "white shrimp",
+          "diagnosis"
+        ]
+      },
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Sanchez Diaz, Ricardo"
+        ],
+        "Identifier.Doi": [
+          "10.3856/vol51-issue1-fulltext-2693"
+        ],
+        "Identifier.Issn": [
+          "0718-560X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4XC7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000956814400008",
+      "Title": {
+        "Title": [
+          "Development Dimensions in International Relations: reflections on industry and health in pandemic times"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "115-134"
+        ],
+        "SourceTitle": [
+          "RELACIONES INTERNACIONALES-MADRID"
+        ],
+        "Issue": [
+          "52"
+        ],
+        "Published.BiblioDate": [
+          "FEB-MAY"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gil, Luciana"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Development",
+          "industry",
+          "health",
+          "Argentina",
+          "medical devices"
+        ]
+      },
+      "Other": {
+        "Identifier.Doi": [
+          "10.15366/relacionesinternacionales2023.52.006"
+        ],
+        "Identifier.Issn": [
+          "1699-3950"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A7II9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000950623100015",
+      "Title": {
+        "Title": [
+          "The agreement on the transportation of D. Pedro I's remains to Brazil under the logic of Luso-Brazilian relations (1971-1974)"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "ANOS 90"
+        ],
+        "Volume": [
+          "29"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de Oliveira, Sarah Luna"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "150th Anniversary of Brazil's independence",
+          "Luso-Brazilian relations",
+          "Civic celebrations",
+          "D",
+          "Pedro"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "0104-236X"
+        ],
+        "Identifier.Doi": [
+          "10.22456/1983-201X.112128"
+        ],
+        "Identifier.Issn": [
+          "1983-201X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "9Y7GL"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000963712200001",
+      "Title": {
+        "Title": [
+          "The Influence of Informality in a Local Agri-food Supply Chain in BrazilDer Einfluss von Informalitat in einer regionalen Agrar- und Lebensmittelwarenkette in Brasilien"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "EUROCHOICES"
+        ],
+        "Published.BiblioDate": [
+          "APR 6"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Assis, Michel T. Q. M.",
+          "Tuempel, Markus",
+          "Lucas, Maria Raquel",
+          "Rainho, Maria Jose M."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Eissn": [
+          "1746-692X"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Rainho, Maria",
+          "Tumpel, Markus",
+          "Tavares Quinteiro Milcent Assis, Michel"
+        ],
+        "Identifier.Doi": [
+          "10.1111/1746-692X.12385"
+        ],
+        "Identifier.Issn": [
+          "1478-0917"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C7MJ0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961727500001",
+      "Title": {
+        "Title": [
+          "Systemic Profile and Periodontal Condition of Hospitalized Women with High-Risk Pregnancy: A Cross-Sectional Study"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "MATERNAL AND CHILD HEALTH JOURNAL"
+        ],
+        "Published.BiblioDate": [
+          "APR 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Schievelbein, Bruna Silva",
+          "Casarin, Renata Picanco",
+          "Kruger, Marta Silveira da Mota",
+          "Fernandes e Silva, Caroline",
+          "da Silveira, Taciane Menezes",
+          "Romano, Ana Regina",
+          "Pappen, Fernanda Geraldo",
+          "Pola, Natalia Marcumini"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Maternal health",
+          "Pregnancy",
+          "high-risk",
+          "Periodontal disease",
+          "Gingivitis"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-6628"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "A-4921-2013"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Pola, Natalia"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s10995-023-03659-8"
+        ],
+        "Identifier.Issn": [
+          "1092-7875"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4ON9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960815000002",
+      "Title": {
+        "Title": [
+          "Development of Social Welfare Policies in the South Asian Association for Regional Cooperation (SAARC) Countries: Globalization and Democracy"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SOCIAL INDICATORS RESEARCH"
+        ],
+        "Published.BiblioDate": [
+          "MAR 30"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Hakeem, Sarah",
+          "Ghauri, Saghir Pervaiz",
+          "Ahmed, Rizwan Raheem",
+          "Streimikiene, Dalia",
+          "Streimikis, Justas"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "SAARC",
+          "Globalization and democracy",
+          "Social welfare",
+          "Social spending",
+          "TSCS techniques",
+          "Efficiency theory",
+          "Compensation theory"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-0921"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "AAF-2180-2020"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Streimikiene, Dalia"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s11205-023-03095-9"
+        ],
+        "Identifier.Issn": [
+          "0303-8300"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3FM3"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960616200001",
+      "Title": {
+        "Title": [
+          "The politics of sanctioning the poor through welfare conditionality: Revealing causal mechanisms in Uruguay"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SOCIAL POLICY & ADMINISTRATION"
+        ],
+        "Published.BiblioDate": [
+          "MAR 29"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Rossel, Cecilia",
+          "Antia, Florencia",
+          "Manzi, Pilar"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "conditional cash transfers",
+          "electoral competition",
+          "Latin America",
+          "process tracing",
+          "Uruguay",
+          "welfare conditionality"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1467-9515"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "AAJ-6641-2020"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Rossel, Cecilia"
+        ],
+        "Identifier.Doi": [
+          "10.1111/spol.12911"
+        ],
+        "Identifier.Issn": [
+          "0144-5596"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2XV5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961002000001",
+      "Title": {
+        "Title": [
+          "Taxonomic Revision of Cuphea sect. Trispermum s.l. (Lythraceae)"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1-67"
+        ],
+        "SourceTitle": [
+          "PHYTOTAXA"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "588"
+        ],
+        "Published.BiblioDate": [
+          "MAR 20"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Facco, Marlon Garlet",
+          "Cavalcanti, Taciana Barbosa"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Endemic species",
+          "new species",
+          "monophyletic section",
+          "taxonomy",
+          "threatened species"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1179-3163"
+        ],
+        "Identifier.Doi": [
+          "10.11646/phytotaxa.588.1.1"
+        ],
+        "Identifier.Issn": [
+          "1179-3155"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3MR2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961033600018",
+      "Title": {
+        "Title": [
+          "Dynamics of governance, gross capital formation, and growth: Evidence from Brazil, Russia, India, China, and South Africa"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF PUBLIC AFFAIRS"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "23"
+        ],
+        "Published.BiblioDate": [
+          "FEB"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Kesar, Ashmita",
+          "Bandi, Kamaiah",
+          "Jena, Pabitra Kumar",
+          "Yadav, Miklesh Prasad"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "countries",
+          "economic growth",
+          "good governance",
+          "gross fixed capital formation",
+          "population"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1479-1854"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Yadav, Dr. Miklesh Prasad",
+          "Kumar Jena, Dr. Pabitra"
+        ],
+        "Identifier.Doi": [
+          "10.1002/pa.2831"
+        ],
+        "Identifier.Issn": [
+          "1472-3891"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3NW8"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960661900001",
+      "Title": {
+        "Title": [
+          "How can entrepreneurs experience inform responsible health innovation policies? A longitudinal case study in Canada and Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "INTERNATIONAL JOURNAL OF HEALTH PLANNING AND MANAGEMENT"
+        ],
+        "Published.BiblioDate": [
+          "MAR 29"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Lehoux, Pascale",
+          "Silva, Hudson Pacifico",
+          "Miller, Fiona",
+          "Denis, Jean-Louis",
+          "Pozelli, Renata Sabio"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "health policy",
+          "mission-oriented innovation policy",
+          "responsible research and innovation",
+          "social entrepreneurship",
+          "sustainability"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1099-1751"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Silva, Hudson Pacifico",
+          "Denis, Jean-Louis"
+        ],
+        "Identifier.Doi": [
+          "10.1002/hpm.3636"
+        ],
+        "Identifier.Issn": [
+          "0749-6753"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2ZP2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961395200001",
+      "Title": {
+        "Title": [
+          "Associated factors of professional burnout among faculty members of graduate stricto sensu programs in language teaching and linguistics: a cross-sectional study"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SAO PAULO MEDICAL JOURNAL"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "141"
+        ],
+        "Published.BiblioDate": [
+          "MAY-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Barreto, Maynara Fernanda Carvalho",
+          "Galdino, Maria Jose Quina",
+          "Oliveira, Eloiza Rodrigues Vidal de",
+          "Fernandes, Frederico Garcia",
+          "Martins, Julia Trevisan",
+          "Marziale, Maria Helena Palucci",
+          "Marcon, Sonia Silva",
+          "Haddad, Maria do Carmo Fernandez Lourenco"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Burnout",
+          "psychological",
+          "professional",
+          "Education",
+          "graduate"
+        ]
+      },
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Marziale, Maria Helena Palucci",
+          "Rodrigues Vidal de Oliveira, Eloiza",
+          "Marcon, Sonia",
+          "Barreto, Maynara"
+        ],
+        "Identifier.Doi": [
+          "10.1590/1516-3180.2021.1027.R1.21072022"
+        ],
+        "Identifier.article_no": [
+          "ARTN e20211027"
+        ],
+        "Identifier.Issn": [
+          "1516-3180"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4BU0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960698900001",
+      "Title": {
+        "Title": [
+          "Performance estimation of two in-house ELISA assays for COVID-19 surveillance through the combined detection of anti-SARS-CoV-2 IgA, IgM, and IgG immunoglobulin isotypes"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "2"
+        ],
+        "Volume": [
+          "18"
+        ],
+        "Published.BiblioDate": [
+          "FEB 6"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ramirez-Reveco, Alfredo",
+          "Velasquez, Gerardo",
+          "Aros, Christopher",
+          "Navarrete, Gabriela",
+          "Villarroel-Espindola, Franz",
+          "Navarrete, Maritza",
+          "Fica, Alberto",
+          "Plaza, Anita",
+          "Castro, Natalia",
+          "Verdugo, Claudio",
+          "Acosta-Jamett, Gerardo",
+          "Verdugo, Cristobal C."
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Contributor.ResearcherID.Names": [
+          "Ramirez, Alfredo"
+        ],
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0270388"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0270388"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C3BA2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000919663400013",
+      "Title": {
+        "Title": [
+          "\"I Never Carry a Gun, Because it is Only Used by Quarrelsome Men\". Printing Industry Workers and Masculinities in 1930s Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "379-418"
+        ],
+        "SourceTitle": [
+          "ANUARIO COLOMBIANO DE HISTORIA SOCIAL Y DE LA CULTURA"
+        ],
+        "Issue": [
+          "1"
+        ],
+        "Volume": [
+          "50"
+        ],
+        "Published.BiblioDate": [
+          "JAN-JUN"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Rivera Mir, Sebastian"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "history of publishing",
+          "masculinities",
+          "postrevolutionary Mexico",
+          "workers"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2256-5647"
+        ],
+        "Identifier.Doi": [
+          "10.15446/achsc.v50n1.100085"
+        ],
+        "Identifier.Issn": [
+          "0120-2456"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8F4VS"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960205200001",
+      "Title": {
+        "Title": [
+          "A Participatory Approach to Economic Valuation of Ecosystem Services in Andean Amazonia: Three Country Case Studies for Policy Planning"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "SUSTAINABILITY"
+        ],
+        "Issue": [
+          "6"
+        ],
+        "Volume": [
+          "15"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gomez, Rosario",
+          "Aguirre, Julio",
+          "Oliveros, Luis",
+          "Paladines, Renzo",
+          "Ortiz, Nestor",
+          "Encalada, Diana",
+          "Armenteras, Dolors"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "land use",
+          "environmental policy",
+          "land planning",
+          "forests",
+          "property rights",
+          "common resources"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2071-1050"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "A-4000-2010"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Armenteras, Dolors"
+        ],
+        "Identifier.Doi": [
+          "10.3390/su15064788"
+        ],
+        "Identifier.article_no": [
+          "ARTN 4788"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2IC0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000878943100002",
+      "Title": {
+        "Title": [
+          "Benefits of global earth observation missions for disaggregation of exposure data and earthquake loss modeling: evidence from Santiago de Chile"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "NATURAL HAZARDS"
+        ],
+        "Published.BiblioDate": [
+          "NOV 4"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Geiss, Christian",
+          "Priesmeier, Peter",
+          "Pelizari, Patrick Aravena",
+          "Calderon, Angelica Rocio Soto",
+          "Schoepfer, Elisabeth",
+          "Riedlinger, Torsten",
+          "Vega, Mabe Villar",
+          "Santa Maria, Hernan",
+          "Gomez Zapata, Juan Camilo",
+          "Pittore, Massimiliano",
+          "So, Emily",
+          "Fekete, Alexander",
+          "Taubenbock, Hannes"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Exposure modeling",
+          "Disaggregation techniques",
+          "Earth observation",
+          "Remote sensing",
+          "Seismic risk",
+          "Earthquake loss estimation"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1573-0840"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "F-5543-2013"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Pittore, Massimiliano",
+          "Priesmeier, Peter",
+          "Geiss, Christian"
+        ],
+        "Identifier.Doi": [
+          "10.1007/s11069-022-05672-6"
+        ],
+        "Identifier.Issn": [
+          "0921-030X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "5X9VW"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000960343200001",
+      "Title": {
+        "Title": [
+          "Gastrointestinal parasites in phyllostomid bats from the Colombian Amazon"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "343-357"
+        ],
+        "SourceTitle": [
+          "JOURNAL OF NATURAL HISTORY"
+        ],
+        "Issue": [
+          "5-8"
+        ],
+        "Volume": [
+          "57"
+        ],
+        "Published.BiblioDate": [
+          "FEB 15"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Giraldo-Martinez, Carlos Andres",
+          "Castillo-Figueroa, Dennis",
+          "Penuela-Salgado, Monica Maria",
+          "Poche-Ceballos, Alba Miriam",
+          "Rodriguez-Leon, Carlos Hernando"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Amazonian rainforest",
+          "Chiroptera",
+          "endoparasitism",
+          "helminth",
+          "protozoa"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1464-5262"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "ABH-9957-2020"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Castillo Figueroa, Dennis"
+        ],
+        "Identifier.Doi": [
+          "10.1080/00222933.2023.2182240"
+        ],
+        "Identifier.Issn": [
+          "0022-2933"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C2NI6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000956652000001",
+      "Title": {
+        "Title": [
+          "Honey bee viruses in solitary bees in South America: simultaneous detection and prevalence"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF APICULTURAL RESEARCH"
+        ],
+        "Published.BiblioDate": [
+          "MAR 11"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Dias, Adriana Cristina",
+          "Ferreira, Jaine Tais",
+          "Teixeira, Erica Weinstein",
+          "Lourenco, Anete Pedro"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Bee pathogens",
+          "Centris",
+          "Tetrapedia",
+          "RNA viruses",
+          "Nosema"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2078-6913"
+        ],
+        "Identifier.Doi": [
+          "10.1080/00218839.2023.2190066"
+        ],
+        "Identifier.Issn": [
+          "0021-8839"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A7CD1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000959163200001",
+      "Title": {
+        "Title": [
+          "High-Throughput Microsatellite Markers Development for Genetic Characterization of Emerging Sporothrix Species"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF FUNGI"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "9"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Losada, Luiza Chaves de Miranda Leonhardt",
+          "Monteiro, Ruan Campos",
+          "de Carvalho, Jamile Ambrosio",
+          "Hagen, Ferry",
+          "Fisher, Matthew C.",
+          "Spruijtenburg, Bram",
+          "Meis, Jacques F.",
+          "de Groot, Theun",
+          "Goncalves, Sarah Santos",
+          "Negroni, Ricardo",
+          "Kano, Rui",
+          "Bonifaz, Alexandro",
+          "de Camargo, Zoilo Pires",
+          "Rodrigues, Anderson Messias"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "zoonosis",
+          "microsatellite",
+          "simple sequence repeats",
+          "SSR",
+          "epidemiology",
+          "Ophiostomatales",
+          "AMOVA",
+          "sporotrichosis",
+          "linkage disequilibrium",
+          "population genetics"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2309-608X"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "B-9044-2009"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Spruijtenburg, Bram",
+          "Hagen, Ferry",
+          "Fisher, Matthew"
+        ],
+        "Identifier.Doi": [
+          "10.3390/jof9030354"
+        ],
+        "Identifier.article_no": [
+          "ARTN 354"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C0UB7"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000940432400023",
+      "Title": {
+        "Title": [
+          "OVERVIEW OF HOMEOFFICE REGULATION IN BRAZIL"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "611-625"
+        ],
+        "SourceTitle": [
+          "REVISTA GENERAL DEL DERECHO DEL TRABAJO Y DE LA SEGURIDAD SOCIAL"
+        ],
+        "Issue": [
+          "63"
+        ],
+        "Published.BiblioDate": [
+          "NOV"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Serau Junior, Marco Aurelio"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Law",
+          "Labor law",
+          "homeoffice",
+          "technology"
+        ]
+      },
+      "Other": {
+        "Identifier.article_no": [
+          "ARTN 425599"
+        ],
+        "Identifier.Issn": [
+          "1696-9626"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "9J8LW"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000940432400022",
+      "Title": {
+        "Title": [
+          "CYBERSECURITY AND LABOR LAW. AN ANALYSIS IN COLOMBIAN AND SPANISH LAW"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "569-610"
+        ],
+        "SourceTitle": [
+          "REVISTA GENERAL DEL DERECHO DEL TRABAJO Y DE LA SEGURIDAD SOCIAL"
+        ],
+        "Issue": [
+          "63"
+        ],
+        "Published.BiblioDate": [
+          "NOV"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Carrero Monroy, Ligia Yolima"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "cybersecurity",
+          "labor law",
+          "labor",
+          "employment",
+          "employment contract",
+          "clause",
+          "security",
+          "jurisprudence",
+          "Colombia",
+          "Spain"
+        ]
+      },
+      "Other": {
+        "Identifier.article_no": [
+          "ARTN 425598"
+        ],
+        "Identifier.Issn": [
+          "1696-9626"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "9J8LW"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000959763700001",
+      "Title": {
+        "Title": [
+          "A step towards carbon neutrality in E7: The role of environmental taxes, structural change, and green energy"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "JOURNAL OF ENVIRONMENTAL MANAGEMENT"
+        ],
+        "Volume": [
+          "337"
+        ],
+        "Published.BiblioDate": [
+          "JUL 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Sarpong, Kwabena Agyarko",
+          "Xu, Wanzhen",
+          "Gyamfi, Bright Akwasi",
+          "Ofori, Elvis Kwame"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Environmental Tax",
+          "structure change",
+          "carbon neutrality",
+          "renewable energy",
+          "E7 economies",
+          "CO2 emission"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1095-8630"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "AFN-7625-2022"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Ofori, Elvis kwame"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.jenvman.2023.117556"
+        ],
+        "Identifier.article_no": [
+          "ARTN 117556"
+        ],
+        "Identifier.Issn": [
+          "0301-4797"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C1RC6"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000962034500001",
+      "Title": {
+        "Title": [
+          "Developing a system for assessing engineering students' transferable skills: evidence for the content validity and replicability of the scales"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "EUROPEAN JOURNAL OF ENGINEERING EDUCATION"
+        ],
+        "Published.BiblioDate": [
+          "APR 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Ferraz, Tatiana Gesteira de Almeida",
+          "Pereira-Guizzo, Camila de Sousa"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Transferable skills",
+          "students' assessment",
+          "higher education",
+          "content validity",
+          "engineering education"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1469-5898"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "",
+          "de Sousa Pereira-Guizzo, Camila"
+        ],
+        "Identifier.Doi": [
+          "10.1080/03043797.2023.2195809"
+        ],
+        "Identifier.Issn": [
+          "0304-3797"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C5AH1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000958877400001",
+      "Title": {
+        "Title": [
+          "Development and Intervention Proposal with Earthen Refurbishments with Vegetal Origin Gel (VOG) for the Preservation of Traditional Adobe Buildings"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "3025-3042"
+        ],
+        "SourceTitle": [
+          "HERITAGE"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "6"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Gonzalez-Sanchez, B.",
+          "Sandoval-Castro, K.",
+          "Navarro-Ezquerra, A.",
+          "Ramirez-Casas, J.",
+          "Sanchez-Calvillo, A.",
+          "Alonso-Guzman, E. M.",
+          "Navarro-Mendoza, E. G."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "cultural heritage conservation",
+          "earthen architecture",
+          "vegetal origin gel",
+          "traditional mortars",
+          "soil stabilization",
+          "vernacular architecture"
+        ]
+      },
+      "Other": {
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "B-8744-2018",
+          "L-3006-2014"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Alonso Guzman, Elia Mercedes",
+          "Navarro, Antonia",
+          "Sanchez Calvillo, Adria"
+        ],
+        "Identifier.Doi": [
+          "10.3390/heritage6030161"
+        ],
+        "Identifier.Issn": [
+          "2571-9408"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C0JD4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000956615300001",
+      "Title": {
+        "Title": [
+          "Factors Associated with the Effectiveness of Regimens for the Treatment of Tuberculosis in Patients Coinfected with HIV/AIDS: Cohort 2015 to 2019"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "DIAGNOSTICS"
+        ],
+        "Issue": [
+          "6"
+        ],
+        "Volume": [
+          "13"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "de Resende, Natalia Helena",
+          "de Miranda, Silvana Spindola",
+          "Reis, Adriano Max Moreira",
+          "de Padua, Cristiane Aparecida Menezes",
+          "Haddad, Joao Paulo Amaral",
+          "da Silva, Paulo Vitor Rozario",
+          "da Silva, Dirce Ines",
+          "Carvalho, Wania da Silva"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "tuberculosis",
+          "HIV",
+          "AIDS",
+          "coinfection",
+          "effectiveness",
+          "drug therapy"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2075-4418"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Reis, Adriano Max Moreira"
+        ],
+        "Identifier.Doi": [
+          "10.3390/diagnostics13061181"
+        ],
+        "Identifier.article_no": [
+          "ARTN 1181"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A7AS4"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000958658000001",
+      "Title": {
+        "Title": [
+          "Ca2.9La0.1Co4O9/graphene composite electrodes for improved electrochemical performance of cellulose-based supercapacitors"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "MATERIALS CHEMISTRY AND PHYSICS"
+        ],
+        "Volume": [
+          "301"
+        ],
+        "Published.BiblioDate": [
+          "JUN 1"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Garces, L.",
+          "Oliva, J.",
+          "Padmasree, K. P.",
+          "Mtz-Enriquez, A. I.",
+          "Rodriguez-Gonzalez, V."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Cellulose",
+          "Biodegradable",
+          "Supercapacitor",
+          "Graphene",
+          "Ca 2",
+          "9 La 0",
+          "1 Co 4 O 9 particles"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1879-3312"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "OLIVA UC, JORGE"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.matchemphys.2023.127612"
+        ],
+        "Identifier.article_no": [
+          "ARTN 127612"
+        ],
+        "Identifier.Issn": [
+          "0254-0584"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C0AT0"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000958114100001",
+      "Title": {
+        "Title": [
+          "Taking the Challenge: An Exploratory Study of the Challenge-Based Learning Context in Higher Education Institutions across Three Different Continents"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "EDUCATION SCIENCES"
+        ],
+        "Issue": [
+          "3"
+        ],
+        "Volume": [
+          "13"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "van den Beemt, Antoine",
+          "Vazquez-Villegas, Patricia",
+          "Puente, Sonia Gomez",
+          "O'Riordan, Fiona",
+          "Gormley, Clare",
+          "Chiang, Feng-Kuang",
+          "Leng, Chuntao",
+          "Caratozzolo, Patricia",
+          "Zavala, Genaro",
+          "Membrillo-Hernandez, Jorge"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "curriculum",
+          "higher education",
+          "educational innovation",
+          "flexibility",
+          "STEM"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2227-7102"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "P-7190-2016"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Membrillo-Hernandez, Jorge",
+          "Chiang, Feng-Kuang",
+          "Caratozzolo Martelliti, Patricia Olga",
+          "ZAVALA, Genaro",
+          "Vazquez Villegas, Patricia"
+        ],
+        "Identifier.Doi": [
+          "10.3390/educsci13030234"
+        ],
+        "Identifier.article_no": [
+          "ARTN 234"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A9FW9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000959950200001",
+      "Title": {
+        "Title": [
+          "Vale in Mozambique: Creator and destroyer of jobs, livelihoods and communities"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "EXTRACTIVE INDUSTRIES AND SOCIETY"
+        ],
+        "Volume": [
+          "13"
+        ],
+        "Published.BiblioDate": [
+          "MAR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Marshall, Judith"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Accumulation by dispossession",
+          "Neoliberalism",
+          "New imperialism",
+          "Regulatory capture",
+          "Hollow",
+          "Extractive companies as educators",
+          "New civil society roles"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2214-7918"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.exis.2022.101190"
+        ],
+        "Identifier.article_no": [
+          "ARTN 101190"
+        ],
+        "Identifier.Issn": [
+          "2214-790X"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C1YH1"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961435800001",
+      "Title": {
+        "Title": [
+          "Real-world effectiveness of WHO recommended first-line antiretroviral therapies: a cohort study from a middle-income country"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV"
+        ],
+        "Published.BiblioDate": [
+          "MAR 31"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Meireles, Glaucia",
+          "Nobre, Aline A.",
+          "Cardoso, Sandra W.",
+          "Velasque, Luciane",
+          "Veloso, Valdilea G.",
+          "Grinsztejn, Beatriz",
+          "Luz, Paula M."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "HIV",
+          "ART or antiretroviral therapy",
+          "viral suppression",
+          "effectiveness",
+          "cohort study",
+          "Brazil"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1360-0451"
+        ],
+        "Identifier.Doi": [
+          "10.1080/09540121.2023.2190954"
+        ],
+        "Identifier.Issn": [
+          "0954-0121"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4DI5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000957419400001",
+      "Title": {
+        "Title": [
+          "Control, Dispute, and Concentration of Land During Civil War: Evidence from Colombia"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "INTERNATIONAL INTERACTIONS"
+        ],
+        "Published.BiblioDate": [
+          "MAR 24"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Fortou, Jose Antonio",
+          "Johansson, Sandra Lillian",
+          "Mora, Juan Carlos Munoz"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Civil war",
+          "land concentration",
+          "land inequality",
+          "non-state armed groups",
+          "territorial control"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1547-7444"
+        ],
+        "Identifier.Doi": [
+          "10.1080/03050629.2023.2186406"
+        ],
+        "Identifier.Issn": [
+          "0305-0629"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "A8FK2"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000903522800029",
+      "Title": {
+        "Title": [
+          "Contextual and individual factors associated with self-reported tooth loss among adults and elderly residents in rural riverside areas: A cross-sectional household-based survey"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "PLOS ONE"
+        ],
+        "Issue": [
+          "11"
+        ],
+        "Volume": [
+          "17"
+        ],
+        "Published.BiblioDate": [
+          "NOV 22"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Lima de Souza, Vitor Guilherme",
+          "Herkrath, Fernando Jose",
+          "Garnelo, Luiza",
+          "Gomes, Andreia Coelho",
+          "Lemos, Uriel Madureira",
+          "Pereira Parente, Rosana Cristina",
+          "Correa de Queiroz Herkrath, Ana Paula"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Doi": [
+          "10.1371/journal.pone.0277845"
+        ],
+        "Identifier.article_no": [
+          "ARTN e0277845"
+        ],
+        "Identifier.Issn": [
+          "1932-6203"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "7H9NM"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000914289900012",
+      "Title": {
+        "Title": [
+          "Riot and Rebellion in Mexico"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Book"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1-319"
+        ],
+        "BookSubtitle": [
+          "The Making of a Race War Paradigm"
+        ],
+        "SourceTitle": [
+          "RIOT AND REBELLION IN MEXICO"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Sabau, A"
+        ]
+      },
+      "Keyword": {},
+      "Other": {
+        "Identifier.Eisbn": [
+          "978-1-4773-2423-3"
+        ],
+        "Identifier.Doi": [
+          "10.7560/324226"
+        ],
+        "Identifier.Isbn": [
+          "978-1-4773-2422-6"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "BU5LL"
+        ]
+      }
+    }
+  ]
+}
