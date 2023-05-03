@@ -55,12 +55,9 @@ query = {
     "firstRecord": 1,
     "usrQuery": "",
     "sortField": "",
-    "symbolicTimeSpan": ""
+    "symbolicTimeSpan": "",
+    "email": ""
 }
-
-query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
-query['symbolicTimeSpan'] = '4week'
-
 
 valid = False
 while not valid:
@@ -72,9 +69,10 @@ while not valid:
         continue
     else:
         break
-    
-count = input("Enter how many you'd like: ")
-email = input("Enter email you want forwarded to: ")
+
+query['email'] = input("Enter email you want forwarded to: ")
+query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
+query['symbolicTimeSpan'] = time_span
 
 result = requests.get(f'{base_url}/', headers=headers, params=query).json()
 
