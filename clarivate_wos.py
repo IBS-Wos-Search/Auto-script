@@ -7,7 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1naEcJ94YMeGAYjNqBu86uW0Xrb447T_t
 """
 
-#!pip install rispy
+#%pip install rispy
+#read that using % instead of ! is better in python enviorments
+
 
 import requests
 import json
@@ -58,6 +60,21 @@ query = {
 
 query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
 query['symbolicTimeSpan'] = '4week'
+
+
+valid = False
+while not valid:
+    try:
+        time_span = int(input("Enter how often you want updates (use 1-4 to represent how many weeks): "))
+        if time_span >= 1 and time_span <= 4: valid = True
+    except:
+        print("Sorry, please only use values 1, 2, 3, or 4.")
+        continue
+    else:
+        break
+    
+count = input("Enter how many you'd like: ")
+email = input("Enter email you want forwarded to: ")
 
 result = requests.get(f'{base_url}/', headers=headers, params=query).json()
 
