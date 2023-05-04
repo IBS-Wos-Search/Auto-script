@@ -1,10 +1,417 @@
 {
   "QueryResult": {
-    "QueryID": 5,
-    "RecordsSearched": 88928027,
+    "QueryID": 1,
+    "RecordsSearched": 88931368,
     "RecordsFound": 33323
   },
   "Data": [
+    {
+      "UT": "WOS:000969954400001",
+      "Title": {
+        "Title": [
+          "Resonance-induced acceleration of the RBNE-BNE segregation inversion"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article",
+          "Early Access"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "AICHE JOURNAL"
+        ],
+        "Published.BiblioDate": [
+          "APR 14"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Shao, Yufei",
+          "Li, Anghao",
+          "Wang, Zaizheng",
+          "Sun, Min",
+          "Huang, Decai"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "DEM simulation",
+          "granular segregation",
+          "granular temperature",
+          "resonance"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1547-5905"
+        ],
+        "Identifier.Doi": [
+          "10.1002/aic.18101"
+        ],
+        "Identifier.Issn": [
+          "0001-1541"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D6QK9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000959476600001",
+      "Title": {
+        "Title": [
+          "A global view of aquaculture policy"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "FOOD POLICY"
+        ],
+        "Volume": [
+          "116"
+        ],
+        "Published.BiblioDate": [
+          "APR"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Naylor, Rosamond",
+          "Fang, Safari",
+          "Fanzo, Jessica"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Sustainable aquaculture",
+          "Nutrition",
+          "Antimicrobials",
+          "Siting",
+          "Environmental regulations",
+          "Trade policy"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1873-5657"
+        ],
+        "Identifier.Doi": [
+          "10.1016/j.foodpol.2023.102422"
+        ],
+        "Identifier.article_no": [
+          "ARTN 102422"
+        ],
+        "Identifier.Issn": [
+          "0306-9192"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C1GB5"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000971518800001",
+      "Title": {
+        "Title": [
+          "Diving deeper: Mesopelagic fish biomass estimates comparison using two different models"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          ""
+        ],
+        "SourceTitle": [
+          "FRONTIERS IN MARINE SCIENCE"
+        ],
+        "Volume": [
+          "10"
+        ],
+        "Published.BiblioDate": [
+          "APR 6"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Cruz, Mariana Hill",
+          "Kriest, Iris",
+          "Getzlaff, Julia"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "mesopelagic fish",
+          "food-web model",
+          "OSMOSE",
+          "twilight zone",
+          "multispecies model",
+          "life cycle",
+          "trophic interactions"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "2296-7745"
+        ],
+        "Identifier.Doi": [
+          "10.3389/fmars.2023.1121569"
+        ],
+        "Identifier.article_no": [
+          "ARTN 1121569"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "D8YB9"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000967761200012",
+      "Title": {
+        "Title": [
+          "Domain Adaptation with Maximum Margin Criterion with Application to Network Traffic Classification"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Proceedings Paper"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "159-169"
+        ],
+        "SourceTitle": [
+          "MACHINE LEARNING AND PRINCIPLES AND PRACTICE OF KNOWLEDGE DISCOVERY IN DATABASES, ECML PKDD 2022, PT II"
+        ],
+        "Volume": [
+          "1753"
+        ],
+        "BookSeriesTitle": [
+          "Communications in Computer and Information Science"
+        ],
+        "Published.BiblioYear": [
+          "2023"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Taghiyarrenani, Zahra",
+          "Farsi, Hamed"
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "Traffic classification",
+          "Domain adaptation",
+          "Transfer learning"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1865-0937"
+        ],
+        "Identifier.Eisbn": [
+          "978-3-031-23633-4"
+        ],
+        "Identifier.Doi": [
+          "10.1007/978-3-031-23633-4_12"
+        ],
+        "Identifier.Isbn": [
+          "978-3-031-23632-7"
+        ],
+        "Identifier.Issn": [
+          "1865-0929"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "BV0BE"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000920290200001",
+      "Title": {
+        "Title": [
+          "Effects of thermal environment on dairy cattle under a grazing system in the Western Amazon, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1119-1126"
+        ],
+        "SourceTitle": [
+          "ARQUIVO BRASILEIRO DE MEDICINA VETERINARIA E ZOOTECNIA"
+        ],
+        "Issue": [
+          "6"
+        ],
+        "Volume": [
+          "74"
+        ],
+        "Published.BiblioDate": [
+          "NOV-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Oliveira, A. V. D.",
+          "Reis, E. M. B.",
+          "Ferraz, P. F. P.",
+          "Barbari, M.",
+          "Santos, G. S.",
+          "Cruz, M. V. R.",
+          "Silva, G. F. .",
+          "Silva, A. O. L."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "climate change",
+          "ambiance",
+          "animal welfare",
+          "heat stress",
+          "dairy cow"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1678-4162"
+        ],
+        "Contributor.ResearcherID.ResearcherIDs": [
+          "L-5505-2015"
+        ],
+        "Contributor.ResearcherID.Names": [
+          "Reis, Eduardo",
+          "BARBARI, MATTEO",
+          "Domingos, Antonia Valcemira"
+        ],
+        "Identifier.Doi": [
+          "10.1590/1678-4162-12743"
+        ],
+        "Identifier.Issn": [
+          "0102-0935"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "8G4BD"
+        ]
+      }
+    },
+    {
+      "UT": "WOS:000961936700020",
+      "Title": {
+        "Title": [
+          "Effects of thermal environment on dairy cattle under a grazing system in the Western Amazon, Brazil"
+        ]
+      },
+      "Doctype": {
+        "Doctype": [
+          "Article"
+        ]
+      },
+      "Source": {
+        "Pages": [
+          "1119-1126"
+        ],
+        "SourceTitle": [
+          "ARQUIVO BRASILEIRO DE MEDICINA VETERINARIA E ZOOTECNIA"
+        ],
+        "Issue": [
+          "6"
+        ],
+        "Volume": [
+          "74"
+        ],
+        "Published.BiblioDate": [
+          "NOV-DEC"
+        ],
+        "Published.BiblioYear": [
+          "2022"
+        ]
+      },
+      "Author": {
+        "Authors": [
+          "Oliveira, A. V. D.",
+          "Reis, E. M. B.",
+          "Ferraz, P. F. P.",
+          "Barbari, M.",
+          "Santos, G. S.",
+          "Cruz, M. V. R.",
+          "Silva, G. F.",
+          "Silva, A. O. L."
+        ]
+      },
+      "Keyword": {
+        "Keywords": [
+          "climate change",
+          "ambiance",
+          "animal welfare",
+          "heat stress",
+          "dairy cow"
+        ]
+      },
+      "Other": {
+        "Identifier.Eissn": [
+          "1678-4162"
+        ],
+        "Identifier.Issn": [
+          "0102-0935"
+        ],
+        "ResearcherID.Disclaimer": [
+          "ResearcherID data provided by Clarivate Analytics"
+        ],
+        "Identifier.Ids": [
+          "C4WN3"
+        ]
+      }
+    },
     {
       "UT": "WOS:000964264200028",
       "Title": {
@@ -1124,82 +1531,6 @@
         ],
         "Identifier.Ids": [
           "D3IL9"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000961936700020",
-      "Title": {
-        "Title": [
-          "Effects of thermal environment on dairy cattle under a grazing system in the Western Amazon, Brazil"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Article"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          "1119-1126"
-        ],
-        "SourceTitle": [
-          "ARQUIVO BRASILEIRO DE MEDICINA VETERINARIA E ZOOTECNIA"
-        ],
-        "Issue": [
-          "6"
-        ],
-        "Volume": [
-          "74"
-        ],
-        "Published.BiblioDate": [
-          "NOV-DEC"
-        ],
-        "Published.BiblioYear": [
-          "2022"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Oliveira, A. V. D.",
-          "Reis, E. M. B.",
-          "Ferraz, P. F. P.",
-          "Barbari, M.",
-          "Santos, G. S.",
-          "Cruz, M. V. R.",
-          "Silva, G. F.",
-          "Silva, A. O. L."
-        ]
-      },
-      "Keyword": {
-        "Keywords": [
-          "climate change",
-          "ambiance",
-          "animal welfare",
-          "heat stress",
-          "dairy cow"
-        ]
-      },
-      "Other": {
-        "Identifier.Eissn": [
-          "1678-4162"
-        ],
-        "Contributor.ResearcherID.ResearcherIDs": [
-          "L-5505-2015"
-        ],
-        "Contributor.ResearcherID.Names": [
-          "Domingos, Antonia Valcemira",
-          "BARBARI, MATTEO",
-          "Reis, Eduardo"
-        ],
-        "Identifier.Issn": [
-          "0102-0935"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "C4WN3"
         ]
       }
     },
@@ -2361,8 +2692,8 @@
           "2296-7745"
         ],
         "Contributor.ResearcherID.Names": [
-          "Loayza Aguilar, Romulo Eugenio",
-          "Olivos Ramirez, Gustavo Enrique"
+          "Olivos Ramirez, Gustavo Enrique",
+          "Loayza Aguilar, Romulo Eugenio"
         ],
         "Identifier.Doi": [
           "10.3389/fmars.2023.1151810"
@@ -2575,16 +2906,16 @@
           "1433-2981"
         ],
         "Contributor.ResearcherID.ResearcherIDs": [
-          "G-3455-2012",
           "AEG-7309-2022",
+          "G-3455-2012",
           "J-5413-2017"
         ],
         "Contributor.ResearcherID.Names": [
-          "WU, Yushan",
-          "Joseph, Nuradh",
-          "Chakraborty, Santam",
           "Gondhowiardjo, Soehartati",
-          "Loong, Herbert"
+          "Chakraborty, Santam",
+          "Loong, Herbert",
+          "Joseph, Nuradh",
+          "WU, Yushan"
         ],
         "Identifier.Doi": [
           "10.1016/j.clon.2023.01.004"
@@ -2656,8 +2987,8 @@
           "2719-3454"
         ],
         "Contributor.ResearcherID.Names": [
-          "Cunha do Valle Poubel, Lucas",
-          ""
+          "",
+          "Cunha do Valle Poubel, Lucas"
         ],
         "Identifier.Doi": [
           "10.2478/fiqf-2023-0003"
@@ -3367,8 +3698,8 @@
           "U-8167-2018"
         ],
         "Contributor.ResearcherID.Names": [
-          "Melo de Sousa, Raymara",
           "Bortolini, Juliano",
+          "Melo de Sousa, Raymara",
           "Duarte Valim, Marilia"
         ],
         "Identifier.Doi": [
@@ -3579,12 +3910,12 @@
         ],
         "Contributor.ResearcherID.Names": [
           "PAN, WILLIAM",
-          "O'Neal, Seth",
-          "Pan, William",
           "Pray, Ian",
           "GABRIEL, SARAH",
-          "Bonnet, Gabrielle",
-          "Gonzales-Gustavson, Eloy"
+          "O'Neal, Seth",
+          "Gonzales-Gustavson, Eloy",
+          "Pan, William",
+          "Bonnet, Gabrielle"
         ],
         "Identifier.Doi": [
           "10.1371/journal.pone.0275247"
@@ -4196,8 +4527,8 @@
           "1758-6593"
         ],
         "Contributor.ResearcherID.Names": [
-          "Silva, Minelle",
-          "Farias Pereira, Susana Carla"
+          "Farias Pereira, Susana Carla",
+          "Silva, Minelle"
         ],
         "Identifier.Doi": [
           "10.1108/IJOPM-08-2022-0504"
@@ -4773,8 +5104,8 @@
           "1746-692X"
         ],
         "Contributor.ResearcherID.Names": [
-          "Rainho, Maria",
           "Tumpel, Markus",
+          "Rainho, Maria",
           "Tavares Quinteiro Milcent Assis, Michel"
         ],
         "Identifier.Doi": [
@@ -5121,8 +5452,8 @@
           "1479-1854"
         ],
         "Contributor.ResearcherID.Names": [
-          "Yadav, Dr. Miklesh Prasad",
-          "Kumar Jena, Dr. Pabitra"
+          "Kumar Jena, Dr. Pabitra",
+          "Yadav, Dr. Miklesh Prasad"
         ],
         "Identifier.Doi": [
           "10.1002/pa.2831"
@@ -5260,10 +5591,10 @@
       },
       "Other": {
         "Contributor.ResearcherID.Names": [
+          "Barreto, Maynara",
           "Marziale, Maria Helena Palucci",
-          "Rodrigues Vidal de Oliveira, Eloiza",
           "Marcon, Sonia",
-          "Barreto, Maynara"
+          "Rodrigues Vidal de Oliveira, Eloiza"
         ],
         "Identifier.Doi": [
           "10.1590/1516-3180.2021.1027.R1.21072022"
@@ -5554,9 +5885,9 @@
           "F-5543-2013"
         ],
         "Contributor.ResearcherID.Names": [
-          "Pittore, Massimiliano",
+          "Geiss, Christian",
           "Priesmeier, Peter",
-          "Geiss, Christian"
+          "Pittore, Massimiliano"
         ],
         "Identifier.Doi": [
           "10.1007/s11069-022-05672-6"
@@ -5780,9 +6111,9 @@
           "B-9044-2009"
         ],
         "Contributor.ResearcherID.Names": [
+          "Fisher, Matthew",
           "Spruijtenburg, Bram",
-          "Hagen, Ferry",
-          "Fisher, Matthew"
+          "Hagen, Ferry"
         ],
         "Identifier.Doi": [
           "10.3390/jof9030354"
@@ -6111,13 +6442,13 @@
       },
       "Other": {
         "Contributor.ResearcherID.ResearcherIDs": [
-          "B-8744-2018",
-          "L-3006-2014"
+          "L-3006-2014",
+          "B-8744-2018"
         ],
         "Contributor.ResearcherID.Names": [
-          "Alonso Guzman, Elia Mercedes",
           "Navarro, Antonia",
-          "Sanchez Calvillo, Adria"
+          "Sanchez Calvillo, Adria",
+          "Alonso Guzman, Elia Mercedes"
         ],
         "Identifier.Doi": [
           "10.3390/heritage6030161"
@@ -6344,11 +6675,11 @@
           "P-7190-2016"
         ],
         "Contributor.ResearcherID.Names": [
-          "Membrillo-Hernandez, Jorge",
-          "Chiang, Feng-Kuang",
-          "Caratozzolo Martelliti, Patricia Olga",
           "ZAVALA, Genaro",
-          "Vazquez Villegas, Patricia"
+          "Membrillo-Hernandez, Jorge",
+          "Vazquez Villegas, Patricia",
+          "Chiang, Feng-Kuang",
+          "Caratozzolo Martelliti, Patricia Olga"
         ],
         "Identifier.Doi": [
           "10.3390/educsci13030234"
@@ -6361,311 +6692,6 @@
         ],
         "Identifier.Ids": [
           "A9FW9"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000959950200001",
-      "Title": {
-        "Title": [
-          "Vale in Mozambique: Creator and destroyer of jobs, livelihoods and communities"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Article"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          ""
-        ],
-        "SourceTitle": [
-          "EXTRACTIVE INDUSTRIES AND SOCIETY"
-        ],
-        "Volume": [
-          "13"
-        ],
-        "Published.BiblioDate": [
-          "MAR"
-        ],
-        "Published.BiblioYear": [
-          "2023"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Marshall, Judith"
-        ]
-      },
-      "Keyword": {
-        "Keywords": [
-          "Accumulation by dispossession",
-          "Neoliberalism",
-          "New imperialism",
-          "Regulatory capture",
-          "Hollow",
-          "Extractive companies as educators",
-          "New civil society roles"
-        ]
-      },
-      "Other": {
-        "Identifier.Eissn": [
-          "2214-7918"
-        ],
-        "Identifier.Doi": [
-          "10.1016/j.exis.2022.101190"
-        ],
-        "Identifier.article_no": [
-          "ARTN 101190"
-        ],
-        "Identifier.Issn": [
-          "2214-790X"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "C1YH1"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000961435800001",
-      "Title": {
-        "Title": [
-          "Real-world effectiveness of WHO recommended first-line antiretroviral therapies: a cohort study from a middle-income country"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Article",
-          "Early Access"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          ""
-        ],
-        "SourceTitle": [
-          "AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV"
-        ],
-        "Published.BiblioDate": [
-          "MAR 31"
-        ],
-        "Published.BiblioYear": [
-          "2023"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Meireles, Glaucia",
-          "Nobre, Aline A.",
-          "Cardoso, Sandra W.",
-          "Velasque, Luciane",
-          "Veloso, Valdilea G.",
-          "Grinsztejn, Beatriz",
-          "Luz, Paula M."
-        ]
-      },
-      "Keyword": {
-        "Keywords": [
-          "HIV",
-          "ART or antiretroviral therapy",
-          "viral suppression",
-          "effectiveness",
-          "cohort study",
-          "Brazil"
-        ]
-      },
-      "Other": {
-        "Identifier.Eissn": [
-          "1360-0451"
-        ],
-        "Identifier.Doi": [
-          "10.1080/09540121.2023.2190954"
-        ],
-        "Identifier.Issn": [
-          "0954-0121"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "C4DI5"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000957419400001",
-      "Title": {
-        "Title": [
-          "Control, Dispute, and Concentration of Land During Civil War: Evidence from Colombia"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Article",
-          "Early Access"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          ""
-        ],
-        "SourceTitle": [
-          "INTERNATIONAL INTERACTIONS"
-        ],
-        "Published.BiblioDate": [
-          "MAR 24"
-        ],
-        "Published.BiblioYear": [
-          "2023"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Fortou, Jose Antonio",
-          "Johansson, Sandra Lillian",
-          "Mora, Juan Carlos Munoz"
-        ]
-      },
-      "Keyword": {
-        "Keywords": [
-          "Civil war",
-          "land concentration",
-          "land inequality",
-          "non-state armed groups",
-          "territorial control"
-        ]
-      },
-      "Other": {
-        "Identifier.Eissn": [
-          "1547-7444"
-        ],
-        "Identifier.Doi": [
-          "10.1080/03050629.2023.2186406"
-        ],
-        "Identifier.Issn": [
-          "0305-0629"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "A8FK2"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000903522800029",
-      "Title": {
-        "Title": [
-          "Contextual and individual factors associated with self-reported tooth loss among adults and elderly residents in rural riverside areas: A cross-sectional household-based survey"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Article"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          ""
-        ],
-        "SourceTitle": [
-          "PLOS ONE"
-        ],
-        "Issue": [
-          "11"
-        ],
-        "Volume": [
-          "17"
-        ],
-        "Published.BiblioDate": [
-          "NOV 22"
-        ],
-        "Published.BiblioYear": [
-          "2022"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Lima de Souza, Vitor Guilherme",
-          "Herkrath, Fernando Jose",
-          "Garnelo, Luiza",
-          "Gomes, Andreia Coelho",
-          "Lemos, Uriel Madureira",
-          "Pereira Parente, Rosana Cristina",
-          "Correa de Queiroz Herkrath, Ana Paula"
-        ]
-      },
-      "Keyword": {},
-      "Other": {
-        "Identifier.Doi": [
-          "10.1371/journal.pone.0277845"
-        ],
-        "Identifier.article_no": [
-          "ARTN e0277845"
-        ],
-        "Identifier.Issn": [
-          "1932-6203"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "7H9NM"
-        ]
-      }
-    },
-    {
-      "UT": "WOS:000914289900012",
-      "Title": {
-        "Title": [
-          "Riot and Rebellion in Mexico"
-        ]
-      },
-      "Doctype": {
-        "Doctype": [
-          "Book"
-        ]
-      },
-      "Source": {
-        "Pages": [
-          "1-319"
-        ],
-        "BookSubtitle": [
-          "The Making of a Race War Paradigm"
-        ],
-        "SourceTitle": [
-          "RIOT AND REBELLION IN MEXICO"
-        ],
-        "Published.BiblioYear": [
-          "2022"
-        ]
-      },
-      "Author": {
-        "Authors": [
-          "Sabau, A"
-        ]
-      },
-      "Keyword": {},
-      "Other": {
-        "Identifier.Eisbn": [
-          "978-1-4773-2423-3"
-        ],
-        "Identifier.Doi": [
-          "10.7560/324226"
-        ],
-        "Identifier.Isbn": [
-          "978-1-4773-2422-6"
-        ],
-        "ResearcherID.Disclaimer": [
-          "ResearcherID data provided by Clarivate Analytics"
-        ],
-        "Identifier.Ids": [
-          "BU5LL"
         ]
       }
     }
