@@ -63,12 +63,10 @@ valid = False
 while not valid:
     try:
         time_span = int(input("Enter how often you want updates (use 1-4 to represent how many weeks): "))
-        if time_span >= 1 and time_span <= 4: valid = True
+        if(time_span >= 1 and time_span <= 4): 
+            valid = True
     except:
         print("Sorry, please only use values 1, 2, 3, or 4.")
-        continue
-    else:
-        break
 
 query['email'] = input("Enter email you want forwarded to: ")
 query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
@@ -156,3 +154,39 @@ for record in result['Data']:
 
 with open('test.ris', 'w') as file:
     rispy.dump(entries, file)
+
+
+# TEST (Python Emailing Code)
+#https://github.com/O365/python-o365 for other documentation
+# import smtplib
+# from email.mime.multipart import MIMEMultipart
+# from email.mime.text import MIMEText
+# from email.mime.base import MIMEBase
+# from email import encoders
+
+# username = "vegeto@office365.com"
+# password = "password123qwe"
+# mail_from = "vegeto@office365.com"
+# mail_to = "goku@dbz.com"
+# mail_subject = "Test Subject"
+# mail_body = "This is a test message"
+# mail_attachment="https://d1ny9casiyy5u5.cloudfront.net/tmp/test.txt"
+# mail_attachment_name="test.txt"
+
+# mimemsg = MIMEMultipart()
+# mimemsg['From']=mail_from
+# mimemsg['To']=mail_to
+# mimemsg['Subject']=mail_subject
+# mimemsg.attach(MIMEText(mail_body, 'plain'))
+
+# with open(mail_attachment, "rb") as attachment:
+#     mimefile = MIMEBase('application', 'octet-stream')
+#     mimefile.set_payload((attachment).read())
+#     encoders.encode_base64(mimefile)
+#     mimefile.add_header('Content-Disposition', "attachment; filename= %s" % mail_attachment_name)
+#     mimemsg.attach(mimefile)
+#     connection = smtplib.SMTP(host='smtp.office365.com', port=587)
+#     connection.starttls()
+#     connection.login(username,password)
+#     connection.send_message(mimemsg)
+#     connection.quit()
