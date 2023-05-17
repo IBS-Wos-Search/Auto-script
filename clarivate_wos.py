@@ -59,6 +59,7 @@ query = {
     "email": ""
 }
 
+#Time-Span Validation
 valid = False
 while not valid:
     try:
@@ -68,8 +69,24 @@ while not valid:
     except:
         print("Sorry, please only use values 1, 2, 3, or 4.")
 
-query['email'] = input("Enter email you want forwarded to: ")
-query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
+#Email Validation
+valid = False
+while not valid:
+    try:
+        query['email'] = input("Enter email you want forwarded to: ")
+        pat = "^[a-zA-Z0-9-_]+@[a-zA-Z0-9]+\.[a-z]{1,3}$"
+        if re.match(pat,query['email']):
+            valid = True
+    except:
+        print("Please double check email formating!")
+
+region = input("Choose one region (latin america, Brazil, Mexico, Chile, Argentina, Uruguay, Peru, Columbia, Bolivia): ")
+topic = input("Choose one topic (labor, labour, welfare, social policy, government expenditure*, health policy, anti-poverty, antipoverty, transfer*, health sector, pension*): ")
+language = input("Choose one language (English, Portuguese, Spanish): ")
+
+query['usrQuery'] = 'TS=(({}) AND ({}) NOT ("mental health")) AND LA=({})'.format(region, topic, language)
+
+#query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
 query['symbolicTimeSpan'] = time_span
 
 result = requests.get(f'{base_url}/', headers=headers, params=query).json()
