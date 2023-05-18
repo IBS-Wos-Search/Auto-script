@@ -66,8 +66,12 @@ while not valid:
         time_span = int(input("Enter how often you want updates (use 1-4 to represent how many weeks): "))
         if(time_span >= 1 and time_span <= 4): 
             valid = True
+        else:
+            print("Sorry, please only use values 1, 2, 3, or 4.")
     except:
-        print("Sorry, please only use values 1, 2, 3, or 4.")
+        print("Invalid Input")
+query['symbolicTimeSpan'] = time_span
+        
 
 #Email Validation
 valid = False
@@ -80,14 +84,13 @@ while not valid:
     except:
         print("Please double check email formating!")
 
+#User Query + Input Sanitization
 region = input("Choose one region (latin america, Brazil, Mexico, Chile, Argentina, Uruguay, Peru, Columbia, Bolivia): ")
 topic = input("Choose one topic (labor, labour, welfare, social policy, government expenditure*, health policy, anti-poverty, antipoverty, transfer*, health sector, pension*): ")
 language = input("Choose one language (English, Portuguese, Spanish): ")
 
 query['usrQuery'] = 'TS=(({}) AND ({}) NOT ("mental health")) AND LA=({})'.format(region, topic, language)
-
 #query['usrQuery'] = 'TS=(("latin america" OR "Brazil" OR "Mexico" OR "Chile" OR "Argentina" OR "Uruguay" OR "Peru" OR "Colombia" OR "Bolivia") AND (“labor” OR “labour” OR "welfare" OR "social policy" OR "government expenditure*" OR "health policy" OR "anti-poverty" OR "antipoverty" OR "transfer*" OR "health sector" OR "pension*") NOT ("mental health")) AND LA=("English" OR "Portuguese" OR "Spanish")'
-query['symbolicTimeSpan'] = time_span
 
 result = requests.get(f'{base_url}/', headers=headers, params=query).json()
 
